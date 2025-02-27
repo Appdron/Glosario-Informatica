@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Glosario de Informática</title>
+</head>
+
+<body>
+  <div id="principal">
+    <div class="lateral" id="lateral">
+      
+      <div id="lat_emcabezado">
+        encabezado
+      </div>
+    </div>
+    <p class="app" id="app">&#9776;</p>
+    
+    <h2 id="titulo">Glosario de Informática</h2>
+    <input type="text" id="searchInput" placeholder="Buscar término...">
+    <div id="glosario"></div>
+    
+    <div id="contenedor_inputs">
+      <div id="barra_task">
+        <div id="minimizar"></div>
+        <div id="cerrar">x</div>
+      </div>
+      <div class="inputs">
+        <input type="text" id="siglasInput" placeholder="Siglas">
+        <input type="text" id="definicionInput" placeholder="Definición">
+        <input type="text" id="traduccionInput" placeholder="Traducción">
+        <button type="button" id="btn_registrar">Registrar Datos</button>
+      </div>
+    </div>
+    
+  </div>
+  <script src="main.js"></script>
+  <script src="json_plano.js"></script>
+</body>
+
+</html>

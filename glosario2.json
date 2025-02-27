@@ -1,0 +1,1724 @@
+[
+  {
+    "siglas": "AI",
+    "significado": "Artificial Intelligence",
+    "definicion": "Artificial Intelligence",
+    "traduccion": "Inteligencia Artificial",
+    "explicacion": "Campo de la informática que se centra en crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana.",
+    "img": "https://ejemplo.com/imagenes/ai.jpg",
+    "alt": "Imagen representativa de Inteligencia Artificial"
+  },
+  {
+    "siglas": "AJAX",
+    "significado": "Asynchronous JavaScript and XML",
+    "definicion": "Asynchronous JavaScript and XML",
+    "traduccion": "JavaScript y XML Asíncronos",
+    "explicacion": "Técnica de desarrollo web que permite realizar solicitudes asíncronas al servidor sin recargar la página, mejorando la experiencia del usuario.",
+    "img": "https://ejemplo.com/imagenes/ajax.jpg",
+    "alt": "Imagen representativa de AJAX"
+  },
+  {
+    "siglas": "API",
+    "significado": "Application Programming Interface",
+    "definicion": "Application Programming Interface",
+    "traduccion": "Interfaz de Programación de Aplicaciones",
+    "explicacion": "Conjunto de reglas y herramientas que permiten a diferentes aplicaciones comunicarse entre sí.",
+    "img": "https://ejemplo.com/imagenes/api.jpg",
+    "alt": "Imagen representativa de API"
+  },
+  {
+    "siglas": "API Gateway",
+    "significado": "Application Programming Interface Gateway",
+    "definicion": "Application Programming Interface Gateway",
+    "traduccion": "Puerta de enlace de Interfaz de Programación de Aplicaciones",
+    "explicacion": "Servicio que actúa como intermediario entre las solicitudes de los clientes y los servicios backend, gestionando y enrutando las solicitudes.",
+    "img": "https://ejemplo.com/imagenes/api-gateway.jpg",
+    "alt": "Imagen representativa de API Gateway"
+  },
+  {
+    "siglas": "API GraphQL",
+    "significado": "Application Programming Interface for GraphQL",
+    "definicion": "Application Programming Interface for GraphQL",
+    "traduccion": "Interfaz de Programación de Aplicaciones para GraphQL",
+    "explicacion": "API que utiliza GraphQL, un lenguaje de consulta para APIs, permitiendo a los clientes solicitar solo los datos que necesitan.",
+    "img": "https://ejemplo.com/imagenes/api-graphql.jpg",
+    "alt": "Imagen representativa de API GraphQL"
+  },
+  {
+    "siglas": "AR",
+    "significado": "Augmented Reality",
+    "definicion": "Augmented Reality",
+    "traduccion": "Realidad Aumentada",
+    "explicacion": "Tecnología que superpone información digital (imágenes, sonidos, etc.) sobre el mundo real.",
+    "img": "https://ejemplo.com/imagenes/ar.jpg",
+    "alt": "Imagen representativa de Realidad Aumentada"
+  },
+  {
+    "siglas": "ARP",
+    "significado": "Address Resolution Protocol",
+    "definicion": "Address Resolution Protocol",
+    "traduccion": "Protocolo de Resolución de Direcciones",
+    "explicacion": "Protocolo utilizado para encontrar la dirección física (MAC) asociada a una dirección IP en una red local.",
+    "img": "https://ejemplo.com/imagenes/arp.jpg",
+    "alt": "Imagen representativa de ARP"
+  },
+  {
+    "siglas": "ASCII",
+    "significado": "American Standard Code for Information Interchange",
+    "definicion": "American Standard Code for Information Interchange",
+    "traduccion": "Código Estándar Americano para el Intercambio de Información",
+    "explicacion": "Código de caracteres que representa texto en computadoras y otros dispositivos.",
+    "img": "https://ejemplo.com/imagenes/ascii.jpg",
+    "alt": "Imagen representativa de ASCII"
+  },
+  {
+    "siglas": "BASH",
+    "significado": "Bourne Again Shell",
+    "definicion": "Bourne Again Shell",
+    "traduccion": "Shell Bourne Nuevamente",
+    "explicacion": "Intérprete de comandos para sistemas Unix/Linux, ampliamente utilizado por su potencia y flexibilidad.",
+    "img": "https://ejemplo.com/imagenes/bash.jpg",
+    "alt": "Imagen representativa de BASH"
+  },
+  {
+    "siglas": "BI",
+    "significado": "Business Intelligence",
+    "definicion": "Business Intelligence",
+    "traduccion": "Inteligencia de Negocios",
+    "explicacion": "Conjunto de herramientas y procesos que permiten analizar datos para tomar decisiones empresariales informadas.",
+    "img": "https://ejemplo.com/imagenes/bi.jpg",
+    "alt": "Imagen representativa de Business Intelligence"
+  },
+  {
+    "siglas": "BIOS",
+    "significado": "Basic Input/Output System",
+    "definicion": "Basic Input/Output System",
+    "traduccion": "Sistema básico de entrada/salida",
+    "explicacion": "Software integrado en la placa base que realiza la inicialización del hardware durante el arranque del sistema.",
+    "img": "https://ejemplo.com/imagenes/bios.jpg",
+    "alt": "Imagen representativa de BIOS"
+  },
+  {
+    "siglas": "CAPTCHA",
+    "significado": "Completely Automated Public Turing test to tell Computers and Humans Apart",
+    "definicion": "Completely Automated Public Turing test to tell Computers and Humans Apart",
+    "traduccion": "Prueba de Turing Pública y Automatizada para Diferenciar Computadoras y Humanos",
+    "explicacion": "Sistema de seguridad que distingue entre usuarios humanos y bots mediante pruebas visuales o de texto.",
+    "img": "https://ejemplo.com/imagenes/captcha.jpg",
+    "alt": "Imagen representativa de CAPTCHA"
+  },
+  {
+    "siglas": "CD",
+    "significado": "Continuous Deployment",
+    "definicion": "Continuous Deployment",
+    "traduccion": "Despliegue Continuo",
+    "explicacion": "Práctica de desarrollo de software donde los cambios en el código se despliegan automáticamente a producción.",
+    "img": "https://ejemplo.com/imagenes/cd.jpg",
+    "alt": "Imagen representativa de Continuous Deployment"
+  },
+  {
+    "siglas": "CDN",
+    "significado": "Content Delivery Network",
+    "definicion": "Content Delivery Network",
+    "traduccion": "Red de entrega de contenido",
+    "explicacion": "Red de servidores distribuidos geográficamente que entregan contenido web de manera rápida y eficiente.",
+    "img": "https://ejemplo.com/imagenes/cdn.jpg",
+    "alt": "Imagen representativa de CDN"
+  },
+  {
+    "siglas": "CI",
+    "significado": "Continuous Integration",
+    "definicion": "Continuous Integration",
+    "traduccion": "Integración Continua",
+    "explicacion": "Práctica de desarrollo donde los cambios en el código se integran y prueban automáticamente en un repositorio compartido.",
+    "img": "https://ejemplo.com/imagenes/ci.jpg",
+    "alt": "Imagen representativa de Continuous Integration"
+  },
+  {
+    "siglas": "CI/CD",
+    "significado": "Continuous Integration/Continuous Deployment",
+    "definicion": "Continuous Integration/Continuous Deployment",
+    "traduccion": "Integración Continua/Despliegue Continuo",
+    "explicacion": "Conjunto de prácticas que combinan la integración continua y el despliegue continuo para automatizar el ciclo de vida del software.",
+    "img": "https://ejemplo.com/imagenes/ci-cd.jpg",
+    "alt": "Imagen representativa de CI/CD"
+  },
+  {
+    "siglas": "CLI",
+    "significado": "Command Line Interface",
+    "definicion": "Command Line Interface",
+    "traduccion": "Interfaz de Línea de Comandos",
+    "explicacion": "Interfaz de usuario que permite interactuar con un sistema operativo o aplicación mediante comandos de texto.",
+    "img": "https://ejemplo.com/imagenes/cli.jpg",
+    "alt": "Imagen representativa de CLI"
+  },
+  {
+    "siglas": "CMS",
+    "significado": "Content Management System",
+    "definicion": "Content Management System",
+    "traduccion": "Sistema de Gestión de Contenidos",
+    "explicacion": "Plataforma que permite crear, gestionar y publicar contenido digital de manera sencilla.",
+    "img": "https://ejemplo.com/imagenes/cms.jpg",
+    "alt": "Imagen representativa de CMS"
+  },
+  {
+    "siglas": "CORS",
+    "significado": "Cross-Origin Resource Sharing",
+    "definicion": "Cross-Origin Resource Sharing",
+    "traduccion": "Compartir Recursos entre Orígenes Cruzados",
+    "explicacion": "Mecanismo que permite a un navegador solicitar recursos de un dominio diferente al del origen.",
+    "img": "https://ejemplo.com/imagenes/cors.jpg",
+    "alt": "Imagen representativa de CORS"
+  },
+  {
+    "siglas": "CPU",
+    "significado": "Central Processing Unit",
+    "definicion": "Central Processing Unit",
+    "traduccion": "Unidad central de procesamiento",
+    "explicacion": "Componente principal de un ordenador que ejecuta instrucciones y procesa datos.",
+    "img": "https://ejemplo.com/imagenes/cpu.jpg",
+    "alt": "Imagen representativa de CPU"
+  },
+  {
+    "siglas": "CRM",
+    "significado": "Customer Relationship Management",
+    "definicion": "Customer Relationship Management",
+    "traduccion": "Gestión de Relaciones con el Cliente",
+    "explicacion": "Sistema que ayuda a las empresas a gestionar las interacciones con los clientes y mejorar las relaciones.",
+    "img": "https://ejemplo.com/imagenes/crm.jpg",
+    "alt": "Imagen representativa de CRM"
+  },
+  {
+    "siglas": "CSRF",
+    "significado": "Cross-Site Request Forgery",
+    "definicion": "Cross-Site Request Forgery",
+    "traduccion": "Falsificación de Solicitud entre Sitios",
+    "explicacion": "Ataque que engaña a un usuario para que realice acciones no deseadas en una aplicación web en la que está autenticado.",
+    "img": "https://ejemplo.com/imagenes/csrf.jpg",
+    "alt": "Imagen representativa de CSRF"
+  },
+  {
+    "siglas": "CSS",
+    "significado": "Cascading Style Sheets",
+    "definicion": "Cascading Style Sheets",
+    "traduccion": "Hojas de Estilo en Cascada",
+    "explicacion": "Lenguaje utilizado para definir el estilo y la presentación de documentos HTML.",
+    "img": "https://ejemplo.com/imagenes/css.jpg",
+    "alt": "Imagen representativa de CSS"
+  },
+  {
+    "siglas": "CSS3",
+    "significado": "Cascading Style Sheets 3",
+    "definicion": "Cascading Style Sheets 3",
+    "traduccion": "La tercera versión del lenguaje de hojas de estilo en cascada, que incluye nuevas características como animaciones, efectos y soporte para fuentes web.",
+    "explicacion": "Versión avanzada de CSS que introduce nuevas funcionalidades como animaciones, transiciones y diseño responsivo.",
+    "img": "https://ejemplo.com/imagenes/css3.jpg",
+    "alt": "Imagen representativa de CSS3"
+  },
+  {
+    "siglas": "DaaS",
+    "significado": "Data as a Service",
+    "definicion": "Data as a Service",
+    "traduccion": "Datos como Servicio",
+    "explicacion": "Modelo de servicio en la nube que proporciona acceso a datos almacenados y gestionados por un proveedor externo.",
+    "img": "https://ejemplo.com/imagenes/daas.jpg",
+    "alt": "Imagen representativa de DaaS"
+  },
+  {
+    "siglas": "DDoS",
+    "significado": "Distributed Denial-of-Service",
+    "definicion": "Distributed Denial-of-Service",
+    "traduccion": "Ataque de denegación de servicio distribuido",
+    "explicacion": "Ataque que intenta hacer que un servicio en línea no esté disponible al abrumarlo con tráfico desde múltiples fuentes.",
+    "img": "https://ejemplo.com/imagenes/ddos.jpg",
+    "alt": "Imagen representativa de DDoS"
+  },
+  {
+    "siglas": "DHCP",
+    "significado": "Dynamic Host Configuration Protocol",
+    "definicion": "Dynamic Host Configuration Protocol",
+    "traduccion": "Protocolo de Configuración Dinámica de Host",
+    "explicacion": "Protocolo que asigna automáticamente direcciones IP y otros parámetros de red a dispositivos en una red.",
+    "img": "https://ejemplo.com/imagenes/dhcp.jpg",
+    "alt": "Imagen representativa de DHCP"
+  },
+  {
+    "siglas": "DL",
+    "significado": "Deep Learning",
+    "definicion": "Deep Learning",
+    "traduccion": "Aprendizaje Profundo",
+    "explicacion": "Subcampo del machine learning que utiliza redes neuronales artificiales para modelar y resolver problemas complejos.",
+    "img": "https://ejemplo.com/imagenes/dl.jpg",
+    "alt": "Imagen representativa de Deep Learning"
+  },
+  {
+    "siglas": "DNS",
+    "significado": "Domain Name System",
+    "definicion": "Domain Name System",
+    "traduccion": "Sistema de Nombres de Dominio",
+    "explicacion": "Sistema que traduce nombres de dominio legibles por humanos en direcciones IP numéricas.",
+    "img": "https://ejemplo.com/imagenes/dns.jpg",
+    "alt": "Imagen representativa de DNS"
+  },
+  {
+    "siglas": "DNSSEC",
+    "significado": "Domain Name System Security Extensions",
+    "definicion": "Domain Name System Security Extensions",
+    "traduccion": "Extensiones de Seguridad del Sistema de Nombres de Dominio",
+    "explicacion": "Conjunto de extensiones que añaden seguridad al DNS, protegiendo contra ataques como el envenenamiento de caché.",
+    "img": "https://ejemplo.com/imagenes/dnssec.jpg",
+    "alt": "Imagen representativa de DNSSEC"
+  },
+  {
+    "siglas": "DOM",
+    "significado": "Document Object Model",
+    "definicion": "Document Object Model",
+    "traduccion": "Modelo de Objetos del Documento",
+    "explicacion": "Interfaz de programación que permite manipular el contenido, estructura y estilo de documentos HTML y XML.",
+    "img": "https://ejemplo.com/imagenes/dom.jpg",
+    "alt": "Imagen representativa de DOM"
+  },
+  {
+    "siglas": "ERP",
+    "significado": "Enterprise Resource Planning",
+    "definicion": "Enterprise Resource Planning",
+    "traduccion": "Planificación de Recursos Empresariales",
+    "explicacion": "Sistema que integra y gestiona los procesos empresariales clave, como finanzas, recursos humanos y cadena de suministro.",
+    "img": "https://ejemplo.com/imagenes/erp.jpg",
+    "alt": "Imagen representativa de ERP"
+  },
+  {
+    "siglas": "FIFO",
+    "significado": "First In, First Out",
+    "definicion": "First In, First Out",
+    "traduccion": "Primero en entrar, primero en salir",
+    "explicacion": "Método de gestión de colas donde el primer elemento en entrar es el primero en salir.",
+    "img": "https://ejemplo.com/imagenes/fifo.jpg",
+    "alt": "Imagen representativa de FIFO"
+  },
+  {
+    "siglas": "FLOPS",
+    "significado": "Floating-point Operations Per Second",
+    "definicion": "Floating-point Operations Per Second",
+    "traduccion": "Operaciones de coma flotante por segundo",
+    "explicacion": "Medida de rendimiento de un sistema informático en términos de operaciones de coma flotante que puede realizar por segundo.",
+    "img": "https://ejemplo.com/imagenes/flops.jpg",
+    "alt": "Imagen representativa de FLOPS"
+  },
+  {
+    "siglas": "FTP",
+    "significado": "File Transfer Protocol",
+    "definicion": "File Transfer Protocol",
+    "traduccion": "Protocolo de Transferencia de Archivos",
+    "explicacion": "Protocolo utilizado para transferir archivos entre sistemas en una red.",
+    "img": "https://ejemplo.com/imagenes/ftp.jpg",
+    "alt": "Imagen representativa de FTP"
+  },
+  
+  {
+    "siglas": "GDPR",
+    "significado": "General Data Protection Regulation",
+    "definicion": "General Data Protection Regulation",
+    "traduccion": "Reglamento General de Protección de Datos",
+    "explicacion": "Reglamento de la Unión Europea que establece normas para proteger los datos personales y la privacidad.",
+    "img": "https://ejemplo.com/imagenes/gdpr.jpg",
+    "alt": "Imagen representativa de GDPR"
+  },
+  {
+    "siglas": "GPU",
+    "significado": "Graphics Processing Unit",
+    "definicion": "Graphics Processing Unit",
+    "traduccion": "Unidad de procesamiento gráfico",
+    "explicacion": "Componente especializado en el procesamiento de gráficos y operaciones paralelas.",
+    "img": "https://ejemplo.com/imagenes/gpu.jpg",
+    "alt": "Imagen representativa de GPU"
+  },
+  {
+    "siglas": "GUI",
+    "significado": "Graphical User Interface",
+    "definicion": "Graphical User Interface",
+    "traduccion": "Interfaz Gráfica de Usuario",
+    "explicacion": "Interfaz de usuario que permite interactuar con un sistema mediante elementos gráficos como ventanas, iconos y menús.",
+    "img": "https://ejemplo.com/imagenes/gui.jpg",
+    "alt": "Imagen representativa de GUI"
+  },
+  {
+    "siglas": "HTML",
+    "significado": "Hypertext Markup Language",
+    "definicion": "Hypertext Markup Language",
+    "traduccion": "Lenguaje de Marcado de Hipertexto",
+    "explicacion": "Lenguaje estándar utilizado para crear y estructurar páginas web.",
+    "img": "https://ejemplo.com/imagenes/html.jpg",
+    "alt": "Imagen representativa de HTML"
+  },
+  {
+    "siglas": "HTML5",
+    "significado": "HyperText Markup Language 5",
+    "definicion": "HyperText Markup Language 5",
+    "traduccion": "La quinta versión del lenguaje de marcado de hipertexto, que incluye nuevas características como elementos semánticos, APIs y soporte de video y audio.",
+    "explicacion": "Versión avanzada de HTML que introduce nuevas funcionalidades como elementos semánticos y soporte multimedia.",
+    "img": "https://ejemplo.com/imagenes/html5.jpg",
+    "alt": "Imagen representativa de HTML5"
+  },
+  {
+    "siglas": "HTTP",
+    "significado": "HyperText Transfer Protocol",
+    "definicion": "HyperText Transfer Protocol",
+    "traduccion": "Protocolo de transferencia de hipertexto",
+    "explicacion": "Protocolo utilizado para transferir datos en la web, como páginas HTML.",
+    "img": "https://ejemplo.com/imagenes/http.jpg",
+    "alt": "Imagen representativa de HTTP"
+  },
+  {
+    "siglas": "HTTPS",
+    "significado": "HyperText Transfer Protocol Secure",
+    "definicion": "HyperText Transfer Protocol Secure",
+    "traduccion": "Protocolo de Transferencia de Hipertexto Seguro",
+    "explicacion": "Versión segura de HTTP que utiliza cifrado para proteger la comunicación entre el navegador y el servidor.",
+    "img": "https://ejemplo.com/imagenes/https.jpg",
+    "alt": "Imagen representativa de HTTPS"
+  },
+  {
+    "siglas": "IDE",
+    "significado": "Integrated Development Environment",
+    "definicion": "Integrated Development Environment",
+    "traduccion": "Entorno de Desarrollo Integrado",
+    "explicacion": "Aplicación que proporciona herramientas integrales para el desarrollo de software, como editor de código, depurador y compilador.",
+    "img": "https://ejemplo.com/imagenes/ide.jpg",
+    "alt": "Imagen representativa de IDE"
+  },
+  {
+    "siglas": "IoT",
+    "significado": "Internet of Things",
+    "definicion": "Internet of Things",
+    "traduccion": "Internet de las Cosas",
+    "explicacion": "Red de dispositivos físicos conectados a Internet que pueden recopilar y compartir datos.",
+    "img": "https://ejemplo.com/imagenes/iot.jpg",
+    "alt": "Imagen representativa de IoT"
+  },
+  {
+    "siglas": "IP",
+    "significado": "Internet Protocol",
+    "definicion": "Internet Protocol",
+    "traduccion": "Protocolo de Internet",
+    "explicacion": "Protocolo que permite la comunicación entre dispositivos en una red, asignando direcciones únicas a cada dispositivo.",
+    "img": "https://ejemplo.com/imagenes/ip.jpg",
+    "alt": "Imagen representativa de IP"
+  },
+  {
+    "siglas": "JavaScript",
+    "significado": "JavaScript",
+    "definicion": "JavaScript",
+    "traduccion": "JavaScript",
+    "explicacion": "Lenguaje de programación utilizado principalmente para añadir interactividad a las páginas web.",
+    "img": "https://ejemplo.com/imagenes/javascript.jpg",
+    "alt": "Imagen representativa de JavaScript"
+  },
+  {
+    "siglas": "JSON",
+    "significado": "JavaScript Object Notation",
+    "definicion": "JavaScript Object Notation",
+    "traduccion": "Notación de Objetos de JavaScript",
+    "explicacion": "Formato ligero de intercambio de datos basado en texto, fácil de leer y escribir para humanos y máquinas.",
+    "img": "https://ejemplo.com/imagenes/json.jpg",
+    "alt": "Imagen representativa de JSON"
+  },
+  {
+    "siglas": "JWT",
+    "significado": "JSON Web Token",
+    "definicion": "JSON Web Token",
+    "traduccion": "Token Web JSON",
+    "explicacion": "Estándar abierto para crear tokens de acceso que permiten la transmisión segura de información entre partes.",
+    "img": "https://ejemplo.com/imagenes/jwt.jpg",
+    "alt": "Imagen representativa de JWT"
+  },
+  {
+    "siglas": "LaaS",
+    "significado": "Machine Learning as a Service",
+    "definicion": "Machine Learning as a Service",
+    "traduccion": "Aprendizaje Automático como Servicio",
+    "explicacion": "Servicio en la nube que proporciona herramientas y recursos para desarrollar y desplegar modelos de machine learning.",
+    "img": "https://ejemplo.com/imagenes/laas.jpg",
+    "alt": "Imagen representativa de LaaS"
+  },
+  {
+    "siglas": "LAN",
+    "significado": "Local Area Network",
+    "definicion": "Local Area Network",
+    "traduccion": "Red de área local",
+    "explicacion": "Red de computadoras que cubre un área pequeña, como una casa, oficina o edificio.",
+    "img": "https://ejemplo.com/imagenes/lan.jpg",
+    "alt": "Imagen representativa de LAN"
+  },
+  {
+    "siglas": "Linux",
+    "significado": "Linux",
+    "definicion": "Linux",
+    "traduccion": "Linux",
+    "explicacion": "Sistema operativo de código abierto basado en Unix, ampliamente utilizado en servidores y dispositivos embebidos.",
+    "img": "https://ejemplo.com/imagenes/linux.jpg",
+    "alt": "Imagen representativa de Linux"
+  },
+  {
+    "siglas": "FTP",
+    "significado": "File Transfer Protocol",
+    "definicion": "File Transfer Protocol",
+    "traduccion": "Protocolo de Transferencia de Archivos",
+    "explicacion": "Protocolo utilizado para transferir archivos entre sistemas en una red.",
+    "img": "https://ejemplo.com/imagenes/ftp.jpg",
+    "alt": "Imagen representativa de FTP"
+  },
+  
+  {
+    "siglas": "FTP",
+    "significado": "File Transfer Protocol",
+    "definicion": "File Transfer Protocol",
+    "traduccion": "Protocolo de Transferencia de Archivos",
+    "explicacion": "Protocolo utilizado para transferir archivos entre sistemas en una red.",
+    "img": "https://ejemplo.com/imagenes/ftp.jpg",
+    "alt": "Imagen representativa de FTP"
+  },
+  {
+    "siglas": "MAC",
+    "significado": "Media Access Control",
+    "definicion": "Media Access Control",
+    "traduccion": "Control de acceso a medios",
+    "explicacion": "Dirección única asignada a una interfaz de red para identificarla en una red.",
+    "img": "https://ejemplo.com/imagenes/mac.jpg",
+    "alt": "Imagen representativa de MAC"
+  },
+  {
+    "siglas": "MD5",
+    "significado": "Message Digest Algorithm 5",
+    "definicion": "Message Digest Algorithm 5",
+    "traduccion": "Algoritmo de resumen de mensaje 5",
+    "explicacion": "Algoritmo criptográfico que genera un valor hash de 128 bits a partir de datos de entrada.",
+    "img": "https://ejemplo.com/imagenes/md5.jpg",
+    "alt": "Imagen representativa de MD5"
+  },
+  {
+    "siglas": "MIME",
+    "significado": "Multipurpose Internet Mail Extensions",
+    "definicion": "Multipurpose Internet Mail Extensions",
+    "traduccion": "Extensiones de correo de Internet de uso múltiple",
+    "explicacion": "Estándar que permite enviar archivos multimedia a través de correo electrónico.",
+    "img": "https://ejemplo.com/imagenes/mime.jpg",
+    "alt": "Imagen representativa de MIME"
+  },
+  {
+    "siglas": "ML",
+    "significado": "Machine Learning",
+    "definicion": "Machine Learning",
+    "traduccion": "Aprendizaje Automático",
+    "explicacion": "Campo de la inteligencia artificial que se centra en desarrollar algoritmos que permiten a las máquinas aprender de los datos.",
+    "img": "https://ejemplo.com/imagenes/ml.jpg",
+    "alt": "Imagen representativa de Machine Learning"
+  },
+  {
+    "siglas": "MLaaS",
+    "significado": "Machine Learning as a Service",
+    "definicion": "Machine Learning as a Service",
+    "traduccion": "Aprendizaje Automático como Servicio",
+    "explicacion": "Servicio en la nube que ofrece herramientas y recursos para desarrollar y desplegar modelos de machine learning.",
+    "img": "https://ejemplo.com/imagenes/mlaas.jpg",
+    "alt": "Imagen representativa de MLaaS"
+  },
+  {
+    "siglas": "MVC",
+    "significado": "Model-View-Controller",
+    "definicion": "Model-View-Controller",
+    "traduccion": "Modelo-Vista-Controlador",
+    "explicacion": "Patrón de diseño arquitectónico que separa la lógica de la aplicación en tres componentes: modelo, vista y controlador.",
+    "img": "https://ejemplo.com/imagenes/mvc.jpg",
+    "alt": "Imagen representativa de MVC"
+  },
+  {
+    "siglas": "MySQL",
+    "significado": "My Structured Query Language",
+    "definicion": "My Structured Query Language",
+    "traduccion": "Lenguaje de consulta estructurado mío",
+    "explicacion": "Sistema de gestión de bases de datos relacionales de código abierto.",
+    "img": "https://ejemplo.com/imagenes/mysql.jpg",
+    "alt": "Imagen representativa de MySQL"
+  },
+  {
+    "siglas": "NFT",
+    "significado": "Non-Fungible Token",
+    "definicion": "Non-Fungible Token",
+    "traduccion": "Token No Fungible",
+    "explicacion": "Token único y no intercambiable que representa la propiedad de un activo digital, como arte o coleccionables.",
+    "img": "https://ejemplo.com/imagenes/nft.jpg",
+    "alt": "Imagen representativa de NFT"
+  },
+  {
+    "siglas": "OCR",
+    "significado": "Optical Character Recognition",
+    "definicion": "Optical Character Recognition",
+    "traduccion": "Reconocimiento Óptico de Caracteres",
+    "explicacion": "Tecnología que convierte imágenes de texto en texto editable y buscable.",
+    "img": "https://ejemplo.com/imagenes/ocr.jpg",
+    "alt": "Imagen representativa de OCR"
+  },
+  {
+    "siglas": "OOP",
+    "significado": "Object-Oriented Programming",
+    "definicion": "Object-Oriented Programming",
+    "traduccion": "Programación orientada a objetos",
+    "explicacion": "Paradigma de programación que organiza el software en objetos que contienen datos y comportamientos.",
+    "img": "https://ejemplo.com/imagenes/oop.jpg",
+    "alt": "Imagen representativa de OOP"
+  },
+  {
+    "siglas": "ORM",
+    "significado": "Object-Relational Mapping",
+    "definicion": "Object-Relational Mapping",
+    "traduccion": "Mapeo Objeto-Relacional",
+    "explicacion": "Técnica de programación que permite interactuar con una base de datos utilizando objetos en lugar de consultas SQL.",
+    "img": "https://ejemplo.com/imagenes/orm.jpg",
+    "alt": "Imagen representativa de ORM"
+  },
+  {
+    "siglas": "OS",
+    "significado": "Operating System",
+    "definicion": "Operating System",
+    "traduccion": "Sistema operativo",
+    "explicacion": "Software que gestiona los recursos del hardware y proporciona servicios a las aplicaciones.",
+    "img": "https://ejemplo.com/imagenes/os.jpg",
+    "alt": "Imagen representativa de OS"
+  },
+  {
+    "siglas": "PDF",
+    "significado": "Portable Document Format",
+    "definicion": "Portable Document Format",
+    "traduccion": "Formato de documento portátil",
+    "explicacion": "Formato de archivo utilizado para presentar documentos de manera independiente del software, hardware o sistema operativo.",
+    "img": "https://ejemplo.com/imagenes/pdf.jpg",
+    "alt": "Imagen representativa de PDF"
+  },
+  {
+    "siglas": "PHP",
+    "significado": "PHP: Hypertext Preprocessor",
+    "definicion": "PHP: Hypertext Preprocessor",
+    "traduccion": "PHP: Preprocesador de Hipertexto",
+    "explicacion": "Lenguaje de programación ampliamente utilizado para el desarrollo web del lado del servidor.",
+    "img": "https://ejemplo.com/imagenes/php.jpg",
+    "alt": "Imagen representativa de PHP"
+  },
+  {
+    "siglas": "PWA",
+    "significado": "Progressive Web App",
+    "definicion": "Progressive Web App",
+    "traduccion": "Aplicación Web Progresiva",
+    "explicacion": "Aplicación web que utiliza tecnologías modernas para ofrecer una experiencia similar a la de una aplicación nativa.",
+    "img": "https://ejemplo.com/imagenes/pwa.jpg",
+    "alt": "Imagen representativa de PWA"
+  },
+  {
+    "siglas": "QA",
+    "significado": "Quality Assurance",
+    "definicion": "Quality Assurance",
+    "traduccion": "Aseguramiento de Calidad",
+    "explicacion": "Proceso que garantiza que los productos o servicios cumplen con los estándares de calidad establecidos.",
+    "img": "https://ejemplo.com/imagenes/qa.jpg",
+    "alt": "Imagen representativa de QA"
+  },
+  {
+    "siglas": "RAM",
+    "significado": "Random Access Memory",
+    "definicion": "Random Access Memory",
+    "traduccion": "Memoria de acceso aleatorio",
+    "explicacion": "Memoria volátil que almacena datos e instrucciones que el CPU necesita acceder rápidamente.",
+    "img": "https://ejemplo.com/imagenes/ram.jpg",
+    "alt": "Imagen representativa de RAM"
+  },
+  {
+    "siglas": "REST",
+    "significado": "Transferencia de Estado Representacional",
+    "definicion": "Representational State Transfer",
+    "traduccion": "Transferencia de Estado Representacional",
+    "explicacion": "Estilo arquitectónico para diseñar APIs web que utiliza métodos HTTP para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar).",
+    "img": "https://ejemplo.com/imagenes/rest.jpg",
+    "alt": "Imagen representativa de REST"
+  },
+  {
+    "siglas": "ROM",
+    "significado": "Memoria de sólo lectura",
+    "definicion": "Read-Only Memory",
+    "traduccion": "Memoria de sólo lectura",
+    "explicacion": "Memoria no volátil que almacena datos que no pueden ser modificados, como el firmware.",
+    "img": "https://ejemplo.com/imagenes/rom.jpg",
+    "alt": "Imagen representativa de ROM"
+  },
+  {
+    "siglas": "RPA",
+    "significado": "Automatización de Procesos Robóticos",
+    "definicion": "Robotic Process Automation",
+    "traduccion": "Automatización de Procesos Robóticos",
+    "explicacion": "Tecnología que permite automatizar tareas repetitivas y basadas en reglas mediante software robótico.",
+    "img": "https://ejemplo.com/imagenes/rpa.jpg",
+    "alt": "Imagen representativa de RPA"
+  },
+  {
+    "siglas": "SaaS",
+    "significado": "Software como Servicio",
+    "definicion": "Software as a Service",
+    "traduccion": "Software como Servicio",
+    "explicacion": "Modelo de distribución de software donde las aplicaciones se alojan en la nube y se accede a ellas a través de Internet.",
+    "img": "https://ejemplo.com/imagenes/saas.jpg",
+    "alt": "Imagen representativa de SaaS"
+  },
+  {
+    "siglas": "SDK",
+    "significado": "Kit de Desarrollo de Software",
+    "definicion": "Software Development Kit",
+    "traduccion": "Kit de Desarrollo de Software",
+    "explicacion": "Conjunto de herramientas y recursos que los desarrolladores utilizan para crear aplicaciones para una plataforma específica.",
+    "img": "https://ejemplo.com/imagenes/sdk.jpg",
+    "alt": "Imagen representativa de SDK"
+  },
+  {
+    "siglas": "SEO",
+    "significado": "Optimización para motores de búsqueda",
+    "definicion": "Search Engine Optimization",
+    "traduccion": "Optimización para motores de búsqueda",
+    "explicacion": "Conjunto de técnicas para mejorar la visibilidad de un sitio web en los resultados de búsqueda orgánicos.",
+    "img": "https://ejemplo.com/imagenes/seo.jpg",
+    "alt": "Imagen representativa de SEO"
+  },
+  {
+    "siglas": "SQL",
+    "significado": "Lenguaje de consulta estructurada para gestionar bases de datos",
+    "definicion": "Structured Query Language",
+    "traduccion": "Lenguaje de Consulta Estructurada",
+    "explicacion": "Lenguaje utilizado para gestionar y manipular bases de datos relacionales.",
+    "img": "https://ejemplo.com/imagenes/sql.jpg",
+    "alt": "Imagen representativa de SQL"
+  },
+  {
+    "siglas": "SSH",
+    "significado": "Protocolo seguro para acceso remoto",
+    "definicion": "Secure Shell",
+    "traduccion": "Concha segura",
+    "explicacion": "Protocolo de red que permite el acceso seguro a un servidor remoto.",
+    "img": "https://ejemplo.com/imagenes/ssh.jpg",
+    "alt": "Imagen representativa de SSH"
+  },
+  {
+    "siglas": "SSL",
+    "significado": "Protocolo de seguridad para comunicaciones cifradas",
+    "definicion": "Secure Sockets Layer",
+    "traduccion": "Capa de Conexiones Seguras",
+    "explicacion": "Protocolo de seguridad que cifra la comunicación entre el navegador y el servidor.",
+    "img": "https://ejemplo.com/imagenes/ssl.jpg",
+    "alt": "Imagen representativa de SSL"
+  },
+  {
+    "siglas": "TCP",
+    "significado": "Protocolo de control de transmisión de datos",
+    "definicion": "Transmission Control Protocol",
+    "traduccion": "Protocolo de Control de Transmisión",
+    "explicacion": "Protocolo de red que garantiza la entrega ordenada y confiable de datos entre dispositivos.",
+    "img": "https://ejemplo.com/imagenes/tcp.jpg",
+    "alt": "Imagen representativa de TCP"
+  },
+  {
+    "siglas": "TCP/IP",
+    "significado": "Conjunto de protocolos para comunicación en redes",
+    "definicion": "Transmission Control Protocol/Internet Protocol",
+    "traduccion": "Protocolo de Control de Transmisión/Protocolo de Internet",
+    "explicacion": "Conjunto de protocolos que permiten la comunicación entre dispositivos en una red.",
+    "img": "https://ejemplo.com/imagenes/tcp-ip.jpg",
+    "alt": "Imagen representativa de TCP/IP"
+  },
+  {
+    "siglas": "TLS",
+    "significado": "Protocolo de seguridad para comunicaciones en red",
+    "definicion": "Transport Layer Security",
+    "traduccion": "Seguridad de la Capa de Transporte",
+    "explicacion": "Protocolo de seguridad que cifra la comunicación entre aplicaciones y servidores.",
+    "img": "https://ejemplo.com/imagenes/tls.jpg",
+    "alt": "Imagen representativa de TLS"
+  },
+  {
+    "siglas": "UDP",
+    "significado": "Protocolo de transmisión rápida sin garantía de entrega",
+    "definicion": "User Datagram Protocol",
+    "traduccion": "Protocolo de Datagramas de Usuario",
+    "explicacion": "Protocolo de red que permite la transmisión rápida de datos sin garantizar su entrega o orden.",
+    "img": "https://ejemplo.com/imagenes/udp.jpg",
+    "alt": "Imagen representativa de UDP"
+  },
+  {
+    "siglas": "UI",
+    "significado": "Interfaz visual para interactuar con un sistema",
+    "definicion": "User Interface",
+    "traduccion": "Interfaz de Usuario",
+    "explicacion": "Parte de una aplicación o sistema que permite a los usuarios interactuar con él.",
+    "img": "https://img.freepik.com/free-vector/ui-ux-design-concept_52683-47802.jpg",
+    "alt": "Concepto de diseño UI/UX"
+  },
+  {
+    "siglas": "URL",
+    "significado": "Dirección para localizar recursos en internet",
+    "definicion": "Uniform Resource Locator",
+    "traduccion": "Localizador Uniforme de Recursos",
+    "explicacion": "Dirección que se utiliza para acceder a un recurso en Internet, como una página web.",
+    "img": "https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Teasers/que-es-una-url-portada.jpg",
+    "alt": "¿Qué es una URL?"
+  },
+  {
+    "siglas": "UX",
+    "significado": "Experiencia y percepción del usuario al interactuar",
+    "definicion": "User Experience",
+    "traduccion": "Experiencia de Usuario",
+    "explicacion": "Conjunto de factores y elementos que influyen en la percepción y satisfacción del usuario al interactuar con un producto o servicio.",
+    "img": "https://www.interaction-design.org/images/uploads/faqs/what-is-ux-design.jpg",
+    "alt": "¿Qué es el diseño UX?"
+  },
+  {
+    "siglas": "VCS",
+    "significado": "Sistema para gestionar versiones de código fuente",
+    "definicion": "Version Control System",
+    "traduccion": "Sistema de Control de Versiones",
+    "explicacion": "Herramienta que permite gestionar cambios en el código fuente de un proyecto, facilitando la colaboración entre desarrolladores.",
+    "img": "https://www.digitalocean.com/static/pages/community/tutorials/git-version-control/git-version-control-01.png",
+    "alt": "Diagrama del sistema de control de versiones Git"
+  },
+  {
+    "siglas": "VPN",
+    "significado": "Conexión segura y privada a través de Internet",
+    "definicion": "Virtual Private Network",
+    "traduccion": "Red Privada Virtual",
+    "explicacion": "Tecnología que crea una conexión segura y cifrada a través de una red pública, como Internet.",
+    "img": "https://www.nordvpn.com/wp-content/uploads/2018/11/what-is-a-vpn-header-image-1440x600.jpg",
+    "alt": "¿Qué es una VPN?"
+  },
+  {
+    "siglas": "VR",
+    "significado": "Entorno simulado para interacción inmersiva",
+    "definicion": "Virtual Reality",
+    "traduccion": "Realidad Virtual",
+    "explicacion": "Tecnología que crea un entorno simulado en el que el usuario puede interactuar de manera inmersiva.",
+    "img": "https://image.shutterstock.com/image-photo/metaverse-vr-glasses-virtual-reality-600w-2149591091.jpg",
+    "alt": "Realidad virtual"
+  },
+  {
+    "siglas": "W3C",
+    "significado": "Organización que desarrolla estándares web",
+    "definicion": "World Wide Web Consortium",
+    "traduccion": "Consorcio de la World Wide Web",
+    "explicacion": "Organización internacional que desarrolla estándares para la web.",
+    "img": "https://www.w3.org/Icons/w3c_home",
+    "alt": "Logo de la W3C"
+  },
+  {
+    "siglas": "WAN",
+    "significado": "Red de comunicación de área amplia",
+    "definicion": "Wide Area Network",
+    "traduccion": "Red de área amplia",
+    "explicacion": "Red de computadoras que cubre un área geográfica extensa, como una ciudad, país o continente.",
+    "img": "https://www.ibm.com/blogs/solutions/wp-content/uploads/2016/10/WAN-Optimization-Diagram-1.jpg",
+    "alt": "Diagrama de una WAN"
+  },
+  {
+    "siglas": "WAN",
+    "significado": "Red de área amplia",
+    "definicion": "Wide Area Network",
+    "traduccion": "Red de área amplia",
+    "explicacion": "Red de computadoras que cubre un área geográfica extensa, como una ciudad, país o continente.",
+    "img": "https://www.ibm.com/blogs/solutions/wp-content/uploads/2016/10/WAN-Optimization-Diagram-1.jpg",
+    "alt": "Diagrama de una WAN"
+  },
+  {
+    "siglas": "XML",
+    "significado": "Lenguaje de marcado extensible",
+    "definicion": "Extensible Markup Language",
+    "traduccion": "Lenguaje de marcado extensible",
+    "explicacion": "Lenguaje de marcado que define un conjunto de reglas para codificar documentos en un formato legible tanto por humanos como por máquinas.",
+    "img": "https://www.educba.com/academy/wp-content/uploads/2019/07/XML-Features.jpg",
+    "alt": "Características de XML"
+  },
+  {
+    "siglas": "XSS",
+    "significado": "Scripting entre sitios cruzados",
+    "definicion": "Cross-Site Scripting",
+    "traduccion": "Scripting entre sitios cruzados",
+    "explicacion": "Vulnerabilidad de seguridad que permite a un atacante inyectar scripts maliciosos en páginas web vistas por otros usuarios.",
+    "img": "https://portswigger.net/cms/images/58/58a8a47466191c9f91a5925299499092-xss-attack.jpg",
+    "alt": "Ataque de XSS"
+  },
+  {
+    "siglas": "YAML",
+    "significado": "Lenguaje de serialización de datos",
+    "definicion": "YAML Ain't Markup Language",
+    "traduccion": "YAML no es un lenguaje de marcado",
+    "explicacion": "Lenguaje de serialización de datos legible por humanos, utilizado para configuraciones y datos estructurados.",
+    "img": "https://miro.medium.com/v2/resize:fit:1400/1*mP_B7-6nO6l9j5N9Wf5o0Q.png",
+    "alt": "Ejemplo de archivo YAML"
+  },
+  
+  {
+    "siglas": "@",
+    "significado": "Símbolo de arroba",
+    "definicion": "At symbol",
+    "traduccion": "Símbolo de arroba",
+    "explicacion": "Se utiliza para separar el nombre de usuario y el dominio en una dirección de correo electrónico, como en 'usuario@dominio.com'.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/At_sign.svg/1200px-At_sign.svg.png",
+    "alt": "Símbolo de arroba"
+  },
+  {
+    "siglas": "#",
+    "significado": "Símbolo de almohadilla",
+    "definicion": "Hash or Pound symbol",
+    "traduccion": "Símbolo de almohadilla",
+    "explicacion": "Se utiliza en programación para denotar comentarios, etiquetas o identificadores en algunos lenguajes de programación. También se usa en redes sociales para indicar hashtags.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hashtag_logo.svg/1200px-Hashtag_logo.svg.png",
+    "alt": "Símbolo de almohadilla"
+  },
+  {
+    "siglas": "$",
+    "significado": "Signo de dólar",
+    "definicion": "Dollar sign",
+    "traduccion": "Signo de dólar",
+    "explicacion": "En programación, se usa como un prefijo para variables o identificadores, especialmente en lenguajes como PHP o JavaScript.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Dollar_sign.svg/1200px-Dollar_sign.svg.png",
+    "alt": "Signo de dólar"
+  },
+  {
+    "siglas": "&",
+    "significado": "Ampersand",
+    "definicion": "Ampersand",
+    "traduccion": "Ampersand",
+    "explicacion": "Se utiliza en programación para representar la palabra 'and' en operaciones lógicas, o en HTML como entidad para representar caracteres especiales como '&amp;'",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Ampersand.svg/1200px-Ampersand.svg.png",
+    "alt": "Ampersand"
+  },
+  {
+    "siglas": "*",
+    "significado": "Asterisco",
+    "definicion": "Asterisk",
+    "traduccion": "Asterisco",
+    "explicacion": "En programación, se utiliza para multiplicación o como comodín en búsquedas de archivos y directorios.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Asterisk.svg/1200px-Asterisk.svg.png",
+    "alt": "Asterisco"
+  },
+  {
+    "siglas": "/",
+    "significado": "Barra diagonal",
+    "definicion": "Slash",
+    "traduccion": "Barra diagonal",
+    "explicacion": "En la mayoría de los sistemas operativos, se usa para separar directorios o carpetas. También se utiliza para indicar operaciones de división en matemáticas y programación.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Forward_slash.svg/1200px-Forward_slash.svg.png",
+    "alt": "Barra diagonal"
+  },
+  {
+    "siglas": "\\",
+    "significado": "Barra invertida",
+    "definicion": "Backslash",
+    "traduccion": "Barra invertida",
+    "explicacion": "Se utiliza para separar directorios en sistemas operativos como Windows y para representar caracteres especiales en cadenas de texto.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Backslash.svg/1200px-Backslash.svg.png",
+    "alt": "Barra invertida"
+  },
+  {
+    "siglas": "+",
+    "significado": "Signo de más",
+    "definicion": "Plus sign",
+    "traduccion": "Signo de más",
+    "explicacion": "En matemáticas y programación, se utiliza para realizar adiciones o concatenación de cadenas de texto.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Plus_sign.svg/1200px-Plus_sign.svg.png",
+    "alt": "Signo de más"
+  },
+  {
+    "siglas": "-",
+    "significado": "Signo de menos",
+    "definicion": "Minus sign",
+    "traduccion": "Signo de menos",
+    "explicacion": "Se utiliza para operaciones de resta en matemáticas y programación.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Minus_sign.svg/1200px-Minus_sign.svg.png",
+    "alt": "Signo de menos"
+  },
+  {
+    "siglas": "=",
+    "significado": "Signo de igual",
+    "definicion": "Equal sign",
+    "traduccion": "Signo de igual",
+    "explicacion": "Se utiliza para asignar valores a variables en programación o para indicar igualdad en matemáticas.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Equal_sign.svg/1200px-Equal_sign.svg.png",
+    "alt": "Signo de igual"
+  },
+  {
+    "siglas": "[",
+    "significado": "Corchete izquierdo",
+    "definicion": "Left Bracket",
+    "traduccion": "Corchete izquierdo",
+    "explicacion": "Se utiliza para definir arreglos o acceder a índices en estructuras de datos en programación.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Left_square_bracket.svg/1200px-Left_square_bracket.svg.png",
+    "alt": "Corchete izquierdo"
+  },
+  {
+    "siglas": "]",
+    "significado": "Corchete derecho",
+    "definicion": "Right Bracket",
+    "traduccion": "Corchete derecho",
+    "explicacion": "Se utiliza para cerrar arreglos o índices en estructuras de datos en programación.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Right_square_bracket.svg/1200px-Right_square_bracket.svg.png",
+    "alt": "Corchete derecho"
+  },
+  {
+    "siglas": "{",
+    "significado": "Llave izquierda",
+    "definicion": "Left Brace",
+    "traduccion": "Llave izquierda",
+    "explicacion": "Se utiliza para agrupar bloques de código o definir objetos en programación.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Left_curly_brace.svg/1200px-Left_curly_brace.svg.png",
+    "alt": "Llave izquierda"
+  },
+  {
+    "siglas": "}",
+    "significado": "Llave derecha",
+    "definicion": "Right Brace",
+    "traduccion": "Llave derecha",
+    "explicacion": "Se utiliza para cerrar bloques de código o finalizar la definición de objetos en programación.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Right_curly_brace.svg/1200px-Right_curly_brace.svg.png",
+    "alt": "Llave derecha"
+  },
+  {
+    "siglas": "&",
+    "significado": "Ampersand",
+    "definicion": "Ampersand",
+    "traduccion": "Ampersand",
+    "explicacion": "En programación, se utiliza como operador de bit a bit AND o para pasar referencias en algunos lenguajes.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ampersand.svg/1200px-Ampersand.svg.png",
+    "alt": "Ampersand"
+  },
+  {
+    "siglas": "*",
+    "significado": "Asterisco",
+    "definicion": "Asterisk",
+    "traduccion": "Asterisco",
+    "explicacion": "Se utiliza para multiplicación, punteros, o comodines en expresiones regulares en programación.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Asterisk.svg/1200px-Asterisk.svg.png",
+    "alt": "Asterisco"
+  },
+  {
+    "siglas": "+",
+    "significado": "Más",
+    "definicion": "Plus",
+    "traduccion": "Más",
+    "explicacion": "En programación, se utiliza para sumar números o concatenar cadenas de texto.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Plus_sign.svg/1200px-Plus_sign.svg.png",
+    "alt": "Más"
+  },
+  {
+    "siglas": "-",
+    "significado": "Menos",
+    "definicion": "Minus",
+    "traduccion": "Menos",
+    "explicacion": "Se utiliza para restar números o como operador unario para indicar números negativos.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Minus_sign.svg/1200px-Minus_sign.svg.png",
+    "alt": "Menos"
+  },
+  {
+    "siglas": "/",
+    "significado": "Barra diagonal",
+    "definicion": "Slash",
+    "traduccion": "Barra diagonal",
+    "explicacion": "Se utiliza para la división de números o como separador en rutas de archivo y URLs.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Slash_sign.svg/1200px-Slash_sign.svg.png",
+    "alt": "Barra diagonal"
+  },
+  {
+    "siglas": "\\",
+    "significado": "Barra inversa",
+    "definicion": "Backslash",
+    "traduccion": "Barra inversa",
+    "explicacion": "Se utiliza como carácter de escape en cadenas de texto o en rutas de archivo en algunos sistemas operativos.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Backslash.svg/1200px-Backslash.svg.png",
+    "alt": "Barra inversa"
+  },
+  {
+    "siglas": "==",
+    "significado": "Operador de igualdad",
+    "definicion": "Equality operator",
+    "traduccion": "Operador de igualdad",
+    "explicacion": "En muchos lenguajes de programación, se utiliza para comparar dos valores y verificar si son iguales.",
+    "img": "https://cdn-icons-png.flaticon.com/512/61/61172.png",
+    "alt": "Operador de igualdad"
+  },
+  {
+    "siglas": "!=",
+    "significado": "Operador de desigualdad",
+    "definicion": "Inequality operator",
+    "traduccion": "Operador de desigualdad",
+    "explicacion": "Se utiliza para comparar dos valores y verificar si no son iguales en programación.",
+    "img": "https://cdn-icons-png.flaticon.com/512/61/61202.png",
+    "alt": "Operador de desigualdad"
+  },
+  {
+    "siglas": ":",
+    "significado": "Dos puntos",
+    "definicion": "Colon",
+    "traduccion": "Dos puntos",
+    "explicacion": "Se utiliza en programación para separar claves de valores en estructuras como diccionarios o para separar direcciones en URLs.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Colon.svg/1200px-Colon.svg.png",
+    "alt": "Dos puntos"
+  },
+  {
+    "siglas": ";",
+    "significado": "Punto y coma",
+    "definicion": "Semicolon",
+    "traduccion": "Punto y coma",
+    "explicacion": "En programación, se utiliza para finalizar una sentencia o declaración en muchos lenguajes, como C, Java y JavaScript.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Semicolon.svg/1200px-Semicolon.svg.png",
+    "alt": "Punto y coma"
+  },
+  {
+    "siglas": "~",
+    "significado": "Tilde",
+    "definicion": "Tilde",
+    "traduccion": "Tilde",
+    "explicacion": "En programación, se utiliza como operador de bit a bit o para indicar el directorio personal en sistemas basados en Unix.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tilde.svg/1200px-Tilde.svg.png",
+    "alt": "Tilde"
+  },
+  {
+    "siglas": "^",
+    "significado": "Caret",
+    "definicion": "Caret",
+    "traduccion": "Caret",
+    "explicacion": "Se utiliza en matemáticas y programación para denotar exponentes o como un operador bit a bit de XOR.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Caret.svg/1200px-Caret.svg.png",
+    "alt": "Caret"
+  },
+  {
+    "siglas": "%",
+    "significado": "Porcentaje",
+    "definicion": "Percent sign",
+    "traduccion": "Porcentaje",
+    "explicacion": "En programación, se utiliza como operador de módulo, que devuelve el residuo de una división entre dos números.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Percent_sign.svg/1200px-Percent_sign.svg.png",
+    "alt": "Porcentaje"
+  },
+  {
+    "siglas": "|",
+    "significado": "Tubería",
+    "definicion": "Pipe",
+    "traduccion": "Tubería",
+    "explicacion": "Se utiliza en sistemas operativos y programación para encadenar comandos o flujos de datos, y también en operaciones de bit a bit.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Vertical_bar.svg/1200px-Vertical_bar.svg.png",
+    "alt": "Tubería"
+  },
+  {
+    "siglas": "<",
+    "significado": "Menor que",
+    "definicion": "Less-than sign",
+    "traduccion": "Menor que",
+    "explicacion": "En programación, se utiliza como operador de comparación para verificar si un valor es menor que otro.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Less-than_sign.svg/1200px-Less-than_sign.svg.png",
+    "alt": "Menor que"
+  },
+  {
+    "siglas": ">",
+    "significado": "Mayor que",
+    "definicion": "Greater-than sign",
+    "traduccion": "Mayor que",
+    "explicacion": "En programación, se utiliza como operador de comparación para verificar si un valor es mayor que otro.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Greater_than_sign.svg/1200px-Greater_than_sign.svg.png",
+    "alt": "Mayor que"
+  },
+  {
+    "siglas": "(",
+    "significado": "Paréntesis izquierdo",
+    "definicion": "Left Parenthesis",
+    "traduccion": "Paréntesis izquierdo",
+    "explicacion": "Se utiliza para agrupar expresiones matemáticas o para pasar argumentos a funciones en programación.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Left_parenthesis.svg/1200px-Left_parenthesis.svg.png",
+    "alt": "Paréntesis izquierdo"
+  },
+  {
+    "siglas": ")",
+    "significado": "Paréntesis derecho",
+    "definicion": "Right Parenthesis",
+    "traduccion": "Paréntesis derecho",
+    "explicacion": "Se utiliza para cerrar expresiones matemáticas o para finalizar los argumentos de una función en programación.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Right_parenthesis.svg/1200px-Right_parenthesis.svg.png",
+    "alt": "Paréntesis derecho"
+  },
+  {
+    "siglas": ".txt",
+    "significado": "Text File",
+    "definicion": "Texto sin formato",
+    "traduccion": "Archivo de texto plano sin formato ni estilos.",
+    "explicacion": "Formato básico para almacenar texto sin ningún tipo de formato adicional.",
+    "img": "https://ejemplo.com/imagenes/txt.jpg",
+    "alt": "Imagen representativa de archivo .txt"
+  },
+  {
+    "siglas": ".doc / .docx",
+    "significado": "Document File",
+    "definicion": "Microsoft Word",
+    "traduccion": "Formato de documento de Microsoft Word.",
+    "explicacion": "Formato utilizado para documentos de texto con soporte para estilos, imágenes y otros elementos.",
+    "img": "https://ejemplo.com/imagenes/doc.jpg",
+    "alt": "Imagen representativa de archivo .doc"
+  },
+  {
+    "siglas": ".odt",
+    "significado": "OpenDocument Text",
+    "definicion": "OpenDocument Text",
+    "traduccion": "Formato de texto abierto utilizado en LibreOffice y OpenOffice.",
+    "explicacion": "Formato estándar para documentos de texto, compatible con suites ofimáticas libres.",
+    "img": "https://ejemplo.com/imagenes/odt.jpg",
+    "alt": "Imagen representativa de archivo .odt"
+  },
+  {
+    "siglas": ".rtf",
+    "significado": "Rich Text Format",
+    "definicion": "Formato de texto enriquecido",
+    "traduccion": "Formato que permite incluir texto con formato básico.",
+    "explicacion": "Formato que soporta negritas, cursivas y otros estilos simples.",
+    "img": "https://ejemplo.com/imagenes/rtf.jpg",
+    "alt": "Imagen representativa de archivo .rtf"
+  },
+  {
+    "siglas": ".pdf",
+    "significado": "Portable Document Format",
+    "definicion": "Documento Portable (Adobe Acrobat)",
+    "traduccion": "Formato de documento portátil que mantiene el formato original.",
+    "explicacion": "Ampliamente utilizado para compartir documentos que no deben modificarse.",
+    "img": "https://ejemplo.com/imagenes/pdf.jpg",
+    "alt": "Imagen representativa de archivo .pdf"
+  },
+  {
+    "siglas": ".md",
+    "significado": "Markdown",
+    "definicion": "Markdown",
+    "traduccion": "Lenguaje de marcado ligero para formatear texto.",
+    "explicacion": "Usado comúnmente para documentación y archivos README en proyectos de desarrollo.",
+    "img": "https://ejemplo.com/imagenes/md.jpg",
+    "alt": "Imagen representativa de archivo .md"
+  },
+  {
+    "siglas": ".xls / .xlsx",
+    "significado": "Excel Spreadsheet",
+    "definicion": "Microsoft Excel",
+    "traduccion": "Formato de hoja de cálculo de Microsoft Excel.",
+    "explicacion": "Formato utilizado para almacenar datos tabulares, fórmulas y gráficos.",
+    "img": "https://ejemplo.com/imagenes/xls.jpg",
+    "alt": "Imagen representativa de archivo .xls"
+  },
+  {
+    "siglas": ".ods",
+    "significado": "OpenDocument Spreadsheet",
+    "definicion": "OpenDocument Spreadsheet",
+    "traduccion": "Formato de hoja de cálculo abierto utilizado en LibreOffice y OpenOffice.",
+    "explicacion": "Formato estándar para hojas de cálculo, compatible con suites ofimáticas libres.",
+    "img": "https://ejemplo.com/imagenes/ods.jpg",
+    "alt": "Imagen representativa de archivo .ods"
+  },
+  {
+    "siglas": ".csv",
+    "significado": "Comma-Separated Values",
+    "definicion": "Valores separados por comas",
+    "traduccion": "Formato de archivo para almacenar datos tabulares en texto plano.",
+    "explicacion": "Ampliamente utilizado para intercambiar datos entre aplicaciones.",
+    "img": "https://ejemplo.com/imagenes/csv.jpg",
+    "alt": "Imagen representativa de archivo .csv"
+  },
+  {
+    "siglas": ".ppt / .pptx",
+    "significado": "PowerPoint Presentation",
+    "definicion": "Microsoft PowerPoint",
+    "traduccion": "Formato de presentación de Microsoft PowerPoint.",
+    "explicacion": "Formato utilizado para crear presentaciones con diapositivas.",
+    "img": "https://ejemplo.com/imagenes/ppt.jpg",
+    "alt": "Imagen representativa de archivo .ppt"
+  },
+  {
+    "siglas": ".odp",
+    "significado": "OpenDocument Presentation",
+    "definicion": "OpenDocument Presentation",
+    "traduccion": "Formato de presentación abierto utilizado en LibreOffice y OpenOffice.",
+    "explicacion": "Formato estándar para presentaciones, compatible con suites ofimáticas libres.",
+    "img": "https://ejemplo.com/imagenes/odp.jpg",
+    "alt": "Imagen representativa de archivo .odp"
+  },
+  {
+    "siglas": ".jpg / .jpeg",
+    "significado": "Joint Photographic Experts Group",
+    "definicion": "Formato de imagen comprimido",
+    "traduccion": "Formato de imagen con compresión que reduce el tamaño del archivo.",
+    "explicacion": "Ampliamente utilizado en fotografía digital y web.",
+    "img": "https://ejemplo.com/imagenes/jpg.jpg",
+    "alt": "Imagen representativa de archivo .jpg"
+  },
+  {
+    "siglas": ".png",
+    "significado": "Portable Network Graphics",
+    "definicion": "Imagen con soporte de transparencia",
+    "traduccion": "Formato de imagen que admite transparencia y compresión sin pérdida.",
+    "explicacion": "Usado comúnmente en gráficos web y diseño.",
+    "img": "https://ejemplo.com/imagenes/png.jpg",
+    "alt": "Imagen representativa de archivo .png"
+  },
+  {
+    "siglas": ".gif",
+    "significado": "Graphics Interchange Format",
+    "definicion": "Imágenes animadas o estáticas",
+    "traduccion": "Formato de imagen que soporta animaciones simples.",
+    "explicacion": "Popular para memes y gráficos animados en la web.",
+    "img": "https://ejemplo.com/imagenes/gif.jpg",
+    "alt": "Imagen representativa de archivo .gif"
+  },
+  {
+    "siglas": ".bmp",
+    "significado": "Bitmap",
+    "definicion": "Mapa de bits sin compresión",
+    "traduccion": "Formato de imagen sin compresión que almacena píxeles individuales.",
+    "explicacion": "Usado en aplicaciones que requieren alta calidad sin pérdida.",
+    "img": "https://ejemplo.com/imagenes/bmp.jpg",
+    "alt": "Imagen representativa de archivo .bmp"
+  },
+  {
+    "siglas": ".svg",
+    "significado": "Scalable Vector Graphics",
+    "definicion": "Gráficos vectoriales escalables",
+    "traduccion": "Formato de imagen vectorial que puede escalarse sin perder calidad.",
+    "explicacion": "Ideal para logotipos e iconos en la web.",
+    "img": "https://ejemplo.com/imagenes/svg.jpg",
+    "alt": "Imagen representativa de archivo .svg"
+  },
+  {
+    "siglas": ".ico",
+    "significado": "Icon File",
+    "definicion": "Iconos de aplicaciones",
+    "traduccion": "Formato de imagen utilizado para iconos en aplicaciones y sitios web.",
+    "explicacion": "Usado comúnmente para favicons y iconos de programas.",
+    "img": "https://ejemplo.com/imagenes/ico.jpg",
+    "alt": "Imagen representativa de archivo .ico"
+  },
+  {
+    "siglas": ".mp3",
+    "significado": "MPEG-1 Audio Layer III",
+    "definicion": "Formato de audio comprimido",
+    "traduccion": "Formato de audio ampliamente utilizado para música y podcasts.",
+    "explicacion": "Ofrece una buena relación entre calidad y tamaño de archivo.",
+    "img": "https://ejemplo.com/imagenes/mp3.jpg",
+    "alt": "Imagen representativa de archivo .mp3"
+  },
+  {
+    "siglas": ".wav",
+    "significado": "Waveform Audio File Format",
+    "definicion": "Formato de audio sin compresión",
+    "traduccion": "Formato de audio que conserva la calidad original del sonido.",
+    "explicacion": "Usado en aplicaciones profesionales de edición de audio.",
+    "img": "https://ejemplo.com/imagenes/wav.jpg",
+    "alt": "Imagen representativa de archivo .wav"
+  },
+  {
+    "siglas": ".ogg",
+    "significado": "Ogg Vorbis",
+    "definicion": "Formato libre de compresión de audio",
+    "traduccion": "Formato de audio de código abierto y libre de patentes.",
+    "explicacion": "Alternativa popular a formatos propietarios como MP3.",
+    "img": "https://ejemplo.com/imagenes/ogg.jpg",
+    "alt": "Imagen representativa de archivo .ogg"
+  },
+  {
+    "siglas": ".flac",
+    "significado": "Free Lossless Audio Codec",
+    "definicion": "Audio sin pérdida de calidad",
+    "traduccion": "Formato de audio que comprime sin perder calidad original.",
+    "explicacion": "Ideal para archivar música con la máxima fidelidad.",
+    "img": "https://ejemplo.com/imagenes/flac.jpg",
+    "alt": "Imagen representativa de archivo .flac"
+  },
+  {
+    "siglas": ".m4a",
+    "significado": "MPEG-4 Audio",
+    "definicion": "Formato de audio de Apple",
+    "traduccion": "Formato de audio utilizado en dispositivos Apple.",
+    "explicacion": "Compatible con iTunes y otros productos de Apple.",
+    "img": "https://ejemplo.com/imagenes/m4a.jpg",
+    "alt": "Imagen representativa de archivo .m4a"
+  },
+  {
+    "siglas": ".mp4",
+    "significado": "MPEG-4 Part 14",
+    "definicion": "Video comprimido (popular en la web)",
+    "traduccion": "Formato de video ampliamente utilizado en plataformas web.",
+    "explicacion": "Ofrece una buena relación entre calidad y tamaño de archivo.",
+    "img": "https://ejemplo.com/imagenes/mp4.jpg",
+    "alt": "Imagen representativa de archivo .mp4"
+  },
+  {
+    "siglas": ".mkv",
+    "significado": "Matroska Video",
+    "definicion": "Contenedor de video multimedia",
+    "traduccion": "Formato que puede contener múltiples pistas de audio, video y subtítulos.",
+    "explicacion": "Popular para almacenar películas y series.",
+    "img": "https://ejemplo.com/imagenes/mkv.jpg",
+    "alt": "Imagen representativa de archivo .mkv"
+  },
+  {
+    "siglas": ".avi",
+    "significado": "Audio Video Interleave",
+    "definicion": "Formato de video sin compresión",
+    "traduccion": "Formato de video que conserva la calidad original.",
+    "explicacion": "Usado en aplicaciones que requieren alta calidad.",
+    "img": "https://ejemplo.com/imagenes/avi.jpg",
+    "alt": "Imagen representativa de archivo .avi"
+  },
+  {
+    "siglas": ".mov",
+    "significado": "QuickTime Movie",
+    "definicion": "Formato de video de Apple (QuickTime)",
+    "traduccion": "Formato de video utilizado en dispositivos Apple.",
+    "explicacion": "Compatible con QuickTime y otros productos de Apple.",
+    "img": "https://ejemplo.com/imagenes/mov.jpg",
+    "alt": "Imagen representativa de archivo .mov"
+  },
+  {
+    "siglas": ".webm",
+    "significado": "Web Media",
+    "definicion": "Video optimizado para la web",
+    "traduccion": "Formato de video de código abierto para uso en la web.",
+    "explicacion": "Ideal para streaming y reproducción en navegadores.",
+    "img": "https://ejemplo.com/imagenes/webm.jpg",
+    "alt": "Imagen representativa de archivo .webm"
+  },
+  {
+    "siglas": ".zip",
+    "significado": "Zipped File",
+    "definicion": "Archivo comprimido",
+    "traduccion": "Formato de compresión ampliamente utilizado.",
+    "explicacion": "Permite comprimir múltiples archivos en uno solo.",
+    "img": "https://ejemplo.com/imagenes/zip.jpg",
+    "alt": "Imagen representativa de archivo .zip"
+  },
+  {
+    "siglas": ".rar",
+    "significado": "Roshal Archive",
+    "definicion": "Archivo comprimido (propietario)",
+    "traduccion": "Formato de compresión con alta tasa de compresión.",
+    "explicacion": "Requiere software específico para descomprimir.",
+    "img": "https://ejemplo.com/imagenes/rar.jpg",
+    "alt": "Imagen representativa de archivo .rar"
+  },
+  {
+    "siglas": ".7z",
+    "significado": "7-Zip File",
+    "definicion": "Alta compresión (7-Zip)",
+    "traduccion": "Formato de compresión con alta eficiencia.",
+    "explicacion": "Utilizado por el software 7-Zip.",
+    "img": "https://ejemplo.com/imagenes/7z.jpg",
+    "alt": "Imagen representativa de archivo .7z"
+  },
+  {
+    "siglas": ".tar",
+    "significado": "Tape Archive",
+    "definicion": "Archivo sin compresión (común en Linux)",
+    "traduccion": "Formato para agrupar archivos sin comprimirlos.",
+    "explicacion": "Usado comúnmente en sistemas Unix y Linux.",
+    "img": "https://ejemplo.com/imagenes/tar.jpg",
+    "alt": "Imagen representativa de archivo .tar"
+  },
+  {
+    "siglas": ".gz",
+    "significado": "GNU Zip",
+    "definicion": "Comprimido con Gzip (Linux)",
+    "traduccion": "Formato de compresión utilizado en Linux.",
+    "explicacion": "Comúnmente usado junto con archivos .tar.",
+    "img": "https://ejemplo.com/imagenes/gz.jpg",
+    "alt": "Imagen representativa de archivo .gz"
+  },
+  {
+    "siglas": ".exe",
+    "significado": "Executable File",
+    "definicion": "Ejecutable en Windows",
+    "traduccion": "Formato de archivo ejecutable en sistemas Windows.",
+    "explicacion": "Contiene programas o instaladores para Windows.",
+    "img": "https://ejemplo.com/imagenes/exe.jpg",
+    "alt": "Imagen representativa de archivo .exe"
+  },
+  {
+    "siglas": ".msi",
+    "significado": "Microsoft Installer",
+    "definicion": "Instalador en Windows",
+    "traduccion": "Formato de archivo utilizado para instalar software en Windows.",
+    "explicacion": "Usado por instaladores de aplicaciones.",
+    "img": "https://ejemplo.com/imagenes/msi.jpg",
+    "alt": "Imagen representativa de archivo .msi"
+  },
+  {
+    "siglas": ".bat",
+    "significado": "Batch File",
+    "definicion": "Archivo de procesamiento por lotes (Batch)",
+    "traduccion": "Archivo de script para ejecutar comandos en Windows.",
+    "explicacion": "Utilizado para automatizar tareas en sistemas Windows.",
+    "img": "https://ejemplo.com/imagenes/bat.jpg",
+    "alt": "Imagen representativa de archivo .bat"
+  },
+  {
+    "siglas": ".sh",
+    "significado": "Shell Script",
+    "definicion": "Script de Shell (Linux y macOS)",
+    "traduccion": "Archivo de script para ejecutar comandos en sistemas Unix.",
+    "explicacion": "Utilizado para automatizar tareas en Linux y macOS.",
+    "img": "https://ejemplo.com/imagenes/sh.jpg",
+    "alt": "Imagen representativa de archivo .sh"
+  },
+  {
+    "siglas": ".dll",
+    "significado": "Dynamic Link Library",
+    "definicion": "Biblioteca de vínculos dinámicos (Windows)",
+    "traduccion": "Archivo que contiene código y recursos para programas en Windows.",
+    "explicacion": "Usado por aplicaciones para compartir funcionalidades.",
+    "img": "https://ejemplo.com/imagenes/dll.jpg",
+    "alt": "Imagen representativa de archivo .dll"
+  },
+  {
+    "siglas": ".sys",
+    "significado": "System File",
+    "definicion": "Archivos de sistema (Windows)",
+    "traduccion": "Archivos esenciales para el funcionamiento del sistema operativo.",
+    "explicacion": "Usados por el núcleo de Windows para operaciones críticas.",
+    "img": "https://ejemplo.com/imagenes/sys.jpg",
+    "alt": "Imagen representativa de archivo .sys"
+  },
+  {
+    "siglas": ".js",
+    "significado": "JavaScript",
+    "definicion": "JavaScript",
+    "traduccion": "Lenguaje de programación para desarrollo web.",
+    "explicacion": "Usado para agregar interactividad a sitios web.",
+    "img": "https://ejemplo.com/imagenes/js.jpg",
+    "alt": "Imagen representativa de archivo .js"
+  },
+  {
+    "siglas": ".html / .htm",
+    "significado": "HyperText Markup Language",
+    "definicion": "HyperText Markup Language",
+    "traduccion": "Lenguaje de marcado para crear páginas web.",
+    "explicacion": "Es la base de la estructura de cualquier sitio web.",
+    "img": "https://ejemplo.com/imagenes/html.jpg",
+    "alt": "Imagen representativa de archivo .html"
+  },
+  {
+    "siglas": ".css",
+    "significado": "Cascading Style Sheets",
+    "definicion": "Hojas de estilo en cascada",
+    "traduccion": "Lenguaje para definir el estilo y diseño de páginas web.",
+    "explicacion": "Usado para controlar la apariencia de los sitios web.",
+    "img": "https://ejemplo.com/imagenes/css.jpg",
+    "alt": "Imagen representativa de archivo .css"
+  },
+  {
+    "siglas": ".py",
+    "significado": "Python",
+    "definicion": "Python",
+    "traduccion": "Lenguaje de programación de alto nivel y propósito general.",
+    "explicacion": "Ampliamente utilizado en desarrollo web, ciencia de datos y automatización.",
+    "img": "https://ejemplo.com/imagenes/py.jpg",
+    "alt": "Imagen representativa de archivo .py"
+  },
+  {
+    "siglas": ".java",
+    "significado": "Java",
+    "definicion": "Código fuente de Java",
+    "traduccion": "Lenguaje de programación orientado a objetos.",
+    "explicacion": "Usado en aplicaciones empresariales y desarrollo Android.",
+    "img": "https://ejemplo.com/imagenes/java.jpg",
+    "alt": "Imagen representativa de archivo .java"
+  },
+  {
+    "siglas": ".c / .cpp",
+    "significado": "C / C++",
+    "definicion": "C y C++",
+    "traduccion": "Lenguajes de programación para desarrollo de sistemas y aplicaciones.",
+    "explicacion": "Ampliamente utilizados en desarrollo de software y juegos.",
+    "img": "https://ejemplo.com/imagenes/cpp.jpg",
+    "alt": "Imagen representativa de archivo .cpp"
+  },
+  {
+    "siglas": ".php",
+    "significado": "Hypertext Preprocessor",
+    "definicion": "Hypertext Preprocessor (Backend web)",
+    "traduccion": "Lenguaje de programación para desarrollo web del lado del servidor.",
+    "explicacion": "Usado en aplicaciones web dinámicas y sistemas de gestión de contenido.",
+    "img": "https://ejemplo.com/imagenes/php.jpg",
+    "alt": "Imagen representativa de archivo .php"
+  },
+  {
+    "siglas": ".rb",
+    "significado": "Ruby",
+    "definicion": "Ruby",
+    "traduccion": "Lenguaje de programación dinámico y orientado a objetos.",
+    "explicacion": "Conocido por su uso en el framework Ruby on Rails.",
+    "img": "https://ejemplo.com/imagenes/rb.jpg",
+    "alt": "Imagen representativa de archivo .rb"
+  },
+  {
+    "siglas": ".ts",
+    "significado": "TypeScript",
+    "definicion": "TypeScript",
+    "traduccion": "Lenguaje de programación que extiende JavaScript con tipos estáticos.",
+    "explicacion": "Usado en desarrollo web moderno para mejorar la calidad del código.",
+    "img": "https://ejemplo.com/imagenes/ts.jpg",
+    "alt": "Imagen representativa de archivo .ts"
+  },
+  {
+    "siglas": ".json",
+    "significado": "JavaScript Object Notation",
+    "definicion": "JavaScript Object Notation (configuración y datos)",
+    "traduccion": "Formato ligero para intercambio de datos.",
+    "explicacion": "Ampliamente utilizado en APIs y configuraciones de aplicaciones.",
+    "img": "https://ejemplo.com/imagenes/json.jpg",
+    "alt": "Imagen representativa de archivo .json"
+  },
+  {
+    "siglas": ".xml",
+    "significado": "Extensible Markup Language",
+    "definicion": "Extensible Markup Language",
+    "traduccion": "Lenguaje de marcado para almacenar y transportar datos.",
+    "explicacion": "Usado en aplicaciones web y servicios web.",
+    "img": "https://ejemplo.com/imagenes/xml.jpg",
+    "alt": "Imagen representativa de archivo .xml"
+  },
+  {
+    "siglas": ".sql",
+    "significado": "Structured Query Language",
+    "definicion": "Consultas o scripts SQL",
+    "traduccion": "Archivo que contiene consultas o scripts para bases de datos.",
+    "explicacion": "Usado para gestionar y manipular datos en sistemas de bases de datos.",
+    "img": "https://ejemplo.com/imagenes/sql.jpg",
+    "alt": "Imagen representativa de archivo .sql"
+  },
+  {
+    "siglas": ".db / .sqlite",
+    "significado": "SQLite Database",
+    "definicion": "SQLite",
+    "traduccion": "Base de datos ligera y embebida.",
+    "explicacion": "Usada en aplicaciones móviles y pequeñas aplicaciones.",
+    "img": "https://ejemplo.com/imagenes/sqlite.jpg",
+    "alt": "Imagen representativa de archivo .sqlite"
+  },
+  {
+    "siglas": ".mdb / .accdb",
+    "significado": "Microsoft Access Database",
+    "definicion": "Microsoft Access",
+    "traduccion": "Base de datos de Microsoft Access.",
+    "explicacion": "Usada en aplicaciones de escritorio para gestión de datos.",
+    "img": "https://ejemplo.com/imagenes/accdb.jpg",
+    "alt": "Imagen representativa de archivo .accdb"
+  },
+  {
+    "siglas": ".json",
+    "significado": "JavaScript Object Notation",
+    "definicion": "También usado para almacenamiento de datos",
+    "traduccion": "Formato ligero para almacenar y transportar datos.",
+    "explicacion": "Usado en bases de datos NoSQL y configuraciones de aplicaciones.",
+    "img": "https://ejemplo.com/imagenes/json_db.jpg",
+    "alt": "Imagen representativa de archivo .json"
+  },
+  {
+    "siglas": ".ini",
+    "significado": "Initialization File",
+    "definicion": "Archivo de configuración",
+    "traduccion": "Formato de archivo para configuraciones simples.",
+    "explicacion": "Usado en aplicaciones para almacenar ajustes y preferencias.",
+    "img": "https://ejemplo.com/imagenes/ini.jpg",
+    "alt": "Imagen representativa de archivo .ini"
+  },
+  {
+    "siglas": ".env",
+    "significado": "Environment File",
+    "definicion": "Variables de entorno",
+    "traduccion": "Archivo para definir variables de entorno en aplicaciones.",
+    "explicacion": "Usado en desarrollo para gestionar configuraciones sensibles.",
+    "img": "https://ejemplo.com/imagenes/env.jpg",
+    "alt": "Imagen representativa de archivo .env"
+  },
+  {
+    "siglas": ".yml / .yaml",
+    "significado": "YAML Ain't Markup Language",
+    "definicion": "Configuración legible (usado en DevOps)",
+    "traduccion": "Formato de archivo para configuraciones en aplicaciones y servicios.",
+    "explicacion": "Ampliamente utilizado en herramientas de DevOps y CI/CD.",
+    "img": "https://ejemplo.com/imagenes/yaml.jpg",
+    "alt": "Imagen representativa de archivo .yaml"
+  },
+  {
+    "siglas": ".conf",
+    "significado": "Configuration File",
+    "definicion": "Archivos de configuración en Linux",
+    "traduccion": "Archivo de configuración para servicios y aplicaciones en Linux.",
+    "explicacion": "Usado para personalizar el comportamiento de software en sistemas Unix.",
+    "img": "https://ejemplo.com/imagenes/conf.jpg",
+    "alt": "Imagen representativa de archivo .conf"
+  },
+  {
+    "siglas": ".ttf",
+    "significado": "TrueType Font",
+    "definicion": "TrueType Font",
+    "traduccion": "Formato de fuente tipográfica ampliamente utilizado.",
+    "explicacion": "Compatible con la mayoría de sistemas operativos.",
+    "img": "https://ejemplo.com/imagenes/ttf.jpg",
+    "alt": "Imagen representativa de archivo .ttf"
+  },
+  {
+    "siglas": ".otf",
+    "significado": "OpenType Font",
+    "definicion": "OpenType Font",
+    "traduccion": "Formato de fuente tipográfica con soporte avanzado.",
+    "explicacion": "Incluye características tipográficas adicionales.",
+    "img": "https://ejemplo.com/imagenes/otf.jpg",
+    "alt": "Imagen representativa de archivo .otf"
+  },
+  {
+    "siglas": ".woff / .woff2",
+    "significado": "Web Open Font Format",
+    "definicion": "Web Open Font Format",
+    "traduccion": "Formato de fuente optimizado para la web.",
+    "explicacion": "Usado en sitios web para mejorar la carga de fuentes.",
+    "img": "https://ejemplo.com/imagenes/woff.jpg",
+    "alt": "Imagen representativa de archivo .woff"
+  },
+  {
+    "siglas": ".iso",
+    "significado": "International Organization for Standardization",
+    "definicion": "Imagen de disco",
+    "traduccion": "Archivo que contiene una copia exacta de un disco óptico.",
+    "explicacion": "Usado para distribuir sistemas operativos y software.",
+    "img": "https://ejemplo.com/imagenes/iso.jpg",
+    "alt": "Imagen representativa de archivo .iso"
+  },
+  {
+    "siglas": ".bin",
+    "significado": "Binary File",
+    "definicion": "Archivo binario",
+    "traduccion": "Archivo que contiene datos en formato binario.",
+    "explicacion": "Usado para almacenar datos no textuales.",
+    "img": "https://ejemplo.com/imagenes/bin.jpg",
+    "alt": "Imagen representativa de archivo .bin"
+  },
+  {
+    "siglas": ".log",
+    "significado": "Log File",
+    "definicion": "Archivos de registro",
+    "traduccion": "Archivo que registra eventos o actividades de un sistema.",
+    "explicacion": "Usado para depuración y auditoría de aplicaciones.",
+    "img": "https://ejemplo.com/imagenes/log.jpg",
+    "alt": "Imagen representativa de archivo .log"
+  },
+  {
+    "siglas": ".tmp",
+    "significado": "Temporary File",
+    "definicion": "Archivos temporales",
+    "traduccion": "Archivo creado temporalmente por una aplicación.",
+    "explicacion": "Usado para almacenar datos temporales durante la ejecución.",
+    "img": "https://ejemplo.com/imagenes/tmp.jpg",
+    "alt": "Imagen representativa de archivo .tmp"
+  }
+]

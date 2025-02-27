@@ -1,0 +1,782 @@
+[
+    { "siglas": "API", "definicion": "Application Programming Interface", "traduccion": "Interfaz de Programación de Aplicaciones" },
+    { "siglas": "API Gateway", "definicion": "Application Programming Interface Gateway", "traduccion": "Puerta de enlace de Interfaz de Programación de Aplicaciones" },
+    { "siglas": "API GraphQL", "definicion": "Application Programming Interface for GraphQL", "traduccion": "Interfaz de Programación de Aplicaciones para GraphQL" },
+    { "siglas": "AR", "definicion": "Augmented Reality", "traduccion": "Realidad Aumentada" },
+    { "siglas": "BI", "definicion": "Business Intelligence", "traduccion": "Inteligencia de Negocios" },
+    { "siglas": "BIOS", "definicion": "Basic Input/Output System", "traduccion": "Sistema básico de entrada/salida" },
+    { "siglas": "CD", "definicion": "Continuous Deployment", "traduccion": "Despliegue Continuo" },
+    { "siglas": "CI", "definicion": "Continuous Integration", "traduccion": "Integración Continua" },
+    { "siglas": "CI/CD", "definicion": "Continuous Integration/Continuous Deployment", "traduccion": "Integración Continua/Despliegue Continuo" },
+    { "siglas": "CMS", "definicion": "Content Management System", "traduccion": "Sistema de Gestión de Contenidos" },
+    { "siglas": "CORS", "definicion": "Cross-Origin Resource Sharing", "traduccion": "Compartir Recursos entre Orígenes Cruzados" },
+    { "siglas": "CPU", "definicion": "Central Processing Unit", "traduccion": "Unidad central de procesamiento" },
+    { "siglas": "CRM", "definicion": "Customer Relationship Management", "traduccion": "Gestión de Relaciones con el Cliente" },
+    { "siglas": "CSS", "definicion": "Cascading Style Sheets", "traduccion": "Hojas de Estilo en Cascada" },
+    { "siglas": "CSS3", "definicion": "Cascading Style Sheets 3", "traduccion": "La tercera versión del lenguaje de hojas de estilo en cascada, que incluye nuevas características como animaciones, efectos y soporte para fuentes web." },
+    { "siglas": "DaaS", "definicion": "Data as a Service", "traduccion": "Datos como Servicio" },
+    { "siglas": "DL", "definicion": "Deep Learning", "traduccion": "Aprendizaje Profundo" },
+    { "siglas": "DNS", "definicion": "Domain Name System", "traduccion": "Sistema de Nombres de Dominio" },
+    { "siglas": "DNSSEC", "definicion": "Domain Name System Security Extensions", "traduccion": "Extensiones de Seguridad del Sistema de Nombres de Dominio" },
+    { "siglas": "ERP", "definicion": "Enterprise Resource Planning", "traduccion": "Planificación de Recursos Empresariales" },
+    { "siglas": "FTP", "definicion": "File Transfer Protocol", "traduccion": "Protocolo de Transferencia de Archivos" },
+    { "siglas": "GPU", "definicion": "Graphics Processing Unit", "traduccion": "Unidad de procesamiento gráfico" },
+    { "siglas": "HTML", "definicion": "Hypertext Markup Language", "traduccion": "Lenguaje de Marcado de Hipertexto" },
+    { "siglas": "HTML5", "definicion": "HyperText Markup Language 5", "traduccion": "La quinta versión del lenguaje de marcado de hipertexto, que incluye nuevas características como elementos semánticos, APIs y soporte de video y audio." },
+    { "siglas": "HTTPS", "definicion": "HyperText Transfer Protocol Secure", "traduccion": "Protocolo de Transferencia de Hipertexto Seguro" },
+    { "siglas": "IDE", "definicion": "Integrated Development Environment", "traduccion": "Entorno de Desarrollo Integrado" },
+    { "siglas": "IoT", "definicion": "Internet of Things", "traduccion": "Internet de las Cosas" },
+    {"siglas": "JavaScript", "definicion": "JavaScript", "traduccion": "JavaScript"},
+    {"siglas": "JSON", "definicion": "JavaScript Object Notation", "traduccion": "Notación de Objetos de JavaScript"},
+    {"siglas": "JWT", "definicion": "JSON Web Token", "traduccion": "Token Web JSON"},
+    {"siglas": "LaaS", "definicion": "Machine Learning as a Service", "traduccion": "Aprendizaje Automático como Servicio"},
+    {"siglas": "Linux", "definicion": "Linux", "traduccion": "Linux"},
+    {"siglas": "ML", "definicion": "Machine Learning", "traduccion": "Aprendizaje Automático"},
+    {"siglas": "MLaaS", "definicion": "Machine Learning as a Service", "traduccion": "Aprendizaje Automático como Servicio"},
+    {"siglas": "NFT", "definicion": "Non-Fungible Token", "traduccion": "Token No Fungible"},
+    {"siglas": "OCR", "definicion": "Optical Character Recognition", "traduccion": "Reconocimiento Óptico de Caracteres"},
+    {"siglas": "ORM", "definicion": "Object-Relational Mapping", "traduccion": "Mapeo Objeto-Relacional"},
+    {"siglas": "PWA", "definicion": "Progressive Web App", "traduccion": "Aplicación Web Progresiva"},
+    {"siglas": "PHP", "definicion": "PHP: Hypertext Preprocessor", "traduccion": "PHP: Preprocesador de Hipertexto"},
+    {"siglas": "QA", "definicion": "Quality Assurance", "traduccion": "Aseguramiento de Calidad"},
+    {"siglas": "RAM", "definicion": "Random Access Memory", "traduccion": "Memoria de acceso aleatorio"},
+    {"siglas": "RPA", "definicion": "Robotic Process Automation", "traduccion": "Automatización de Procesos Robóticos"},
+    {"siglas": "ROM", "definicion": "Read-Only Memory", "traduccion": "Memoria de sólo lectura"},
+    {"siglas": "SaaS", "definicion": "Software as a Service", "traduccion": "Software como Servicio"},
+    {"siglas": "SDK", "definicion": "Software Development Kit", "traduccion": "Kit de Desarrollo de Software"},
+    {"siglas": "SQL", "definicion": "Structured Query Language", "traduccion": "Lenguaje de Consulta Estructurada"},
+    {"siglas": "SSL", "definicion": "Secure Sockets Layer", "traduccion": "Capa de Conexiones Seguras"},
+    {"siglas": "TCP/IP", "definicion": "Transmission Control Protocol/Internet Protocol", "traduccion": "Protocolo de Control de Transmisión/Protocolo de Internet"},
+    {"siglas": "TLS", "definicion": "Transport Layer Security", "traduccion": "Seguridad de la Capa de Transporte"},
+    {"siglas": "UI", "definicion": "User Interface", "traduccion": "Interfaz de Usuario"},
+    {"siglas": "URL", "definicion": "Uniform Resource Locator", "traduccion": "Localizador Uniforme de Recursos"},
+    {"siglas": "UX", "definicion": "User Experience", "traduccion": "Experiencia de Usuario"},
+    {"siglas": "VCS", "definicion": "Version Control System", "traduccion": "Sistema de Control de Versiones"},
+    {"siglas": "VR", "definicion": "Virtual Reality", "traduccion": "Realidad Virtual"},
+    
+  {
+    "siglas": "ASCII",
+    "definicion": "American Standard Code for Information Interchange",
+    "traduccion": "Código Estándar Americano para el Intercambio de Información"
+  },
+  {
+    "siglas": "BIOS",
+    "definicion": "Basic Input/Output System",
+    "traduccion": "Sistema básico de entrada/salida"
+  },
+  {
+    "siglas": "CDN",
+    "definicion": "Content Delivery Network",
+    "traduccion": "Red de entrega de contenido"
+  },
+  {
+    "siglas": "CPU",
+    "definicion": "Central Processing Unit",
+    "traduccion": "Unidad central de procesamiento"
+  },
+  {
+    "siglas": "CSS",
+    "definicion": "Cascading Style Sheets",
+    "traduccion": "Hojas de estilo en cascada"
+  },
+  {
+    "siglas": "DDoS",
+    "definicion": "Distributed Denial-of-Service",
+    "traduccion": "Ataque de denegación de servicio distribuido"
+  },
+  {
+    "siglas": "DNS",
+    "definicion": "Domain Name System",
+    "traduccion": "Sistema de nombres de dominio"
+  },
+  {
+    "siglas": "ERP",
+    "definicion": "Enterprise Resource Planning",
+    "traduccion": "Planificación de recursos empresariales"
+  },
+  {
+    "siglas": "FIFO",
+    "definicion": "First In, First Out",
+    "traduccion": "Primero en entrar, primero en salir"
+  },
+  {
+    "siglas": "FLOPS",
+    "definicion": "Floating-point Operations Per Second",
+    "traduccion": "Operaciones de coma flotante por segundo"
+  },
+  {
+    "siglas": "GPU",
+    "definicion": "Graphics Processing Unit",
+    "traduccion": "Unidad de procesamiento gráfico"
+  },
+  {
+    "siglas": "HTML",
+    "definicion": "HyperText Markup Language",
+    "traduccion": "Lenguaje de marcado de hipertexto"
+  },
+  {
+    "siglas": "HTTP",
+    "definicion": "HyperText Transfer Protocol",
+    "traduccion": "Protocolo de transferencia de hipertexto"
+  },
+  {
+    "siglas": "HTTPS",
+    "definicion": "HyperText Transfer Protocol Secure",
+    "traduccion": "Protocolo de transferencia de hipertexto seguro"
+  },
+  {
+    "siglas": "IDE",
+    "definicion": "Integrated Development Environment",
+    "traduccion": "Entorno de desarrollo integrado"
+  },
+  {
+    "siglas": "IoT",
+    "definicion": "Internet of Things",
+    "traduccion": "Internet de las cosas"
+  },
+  {
+    "siglas": "IP",
+    "definicion": "Internet Protocol",
+    "traduccion": "Protocolo de Internet"
+  },
+  {
+    "siglas": "JSON",
+    "definicion": "JavaScript Object Notation",
+    "traduccion": "Notación de objetos de JavaScript"
+  },
+  {
+    "siglas": "LAN",
+    "definicion": "Local Area Network",
+    "traduccion": "Red de área local"
+  },
+  {
+    "siglas": "MAC",
+    "definicion": "Media Access Control",
+    "traduccion": "Control de acceso a medios"
+  },
+  {
+    "siglas": "MD5",
+    "definicion": "Message Digest Algorithm 5",
+    "traduccion": "Algoritmo de resumen de mensaje 5"
+  },
+  {
+    "siglas": "MIME",
+    "definicion": "Multipurpose Internet Mail Extensions",
+    "traduccion": "Extensiones de correo de Internet de uso múltiple"
+  },
+  {
+    "siglas": "MySQL",
+    "definicion": "My Structured Query Language",
+    "traduccion": "Lenguaje de consulta estructurado mío"
+  },
+  {
+    "siglas": "OOP",
+    "definicion": "Object-Oriented Programming",
+    "traduccion": "Programación orientada a objetos"
+  },
+  
+  {
+    "siglas": "ORM",
+    "definicion": "Object-Relational Mapping",
+    "traduccion": "Mapeo Objeto-Relacional"
+  },
+  {
+    "siglas": "OS",
+    "definicion": "Operating System",
+    "traduccion": "Sistema operativo"
+  },
+  {
+    "siglas": "PDF",
+    "definicion": "Portable Document Format",
+    "traduccion": "Formato de documento portátil"
+  },
+  {
+    "siglas": "PHP",
+    "definicion": "PHP: Hypertext Preprocessor",
+    "traduccion": "PHP: Preprocesador de Hipertexto"
+  },
+  {
+    "siglas": "RAM",
+    "definicion": "Random Access Memory",
+    "traduccion": "Memoria de acceso aleatorio"
+  },
+  {
+    "siglas": "RPA",
+    "definicion": "Robotic Process Automation",
+    "traduccion": "Automatización de Procesos Robóticos"
+  },
+  {
+    "siglas": "SaaS",
+    "definicion": "Software as a Service",
+    "traduccion": "Software como Servicio"
+  },
+  {
+    "siglas": "SEO",
+    "definicion": "Search Engine Optimization",
+    "traduccion": "Optimización para motores de búsqueda"
+  },
+  {
+    "siglas": "SQL",
+    "definicion": "Structured Query Language",
+    "traduccion": "Lenguaje de consulta estructurado"
+  },
+  {
+    "siglas": "SSH",
+    "definicion": "Secure Shell",
+    "traduccion": "Concha segura"
+  },
+  {
+    "siglas": "TCP/IP",
+    "definicion": "Transmission Control Protocol/Internet Protocol",
+    "traduccion": "Protocolo de control de transmisión/Protocolo de Internet"
+  },
+  {
+    "siglas": "TLS",
+    "definicion": "Transport Layer Security",
+    "traduccion": "Seguridad de la capa de transporte"
+  },
+  {
+    "siglas": "UI",
+    "definicion": "User Interface",
+    "traduccion": "Interfaz de usuario"
+  },
+  {
+    "siglas": "URL",
+    "definicion": "Uniform Resource Locator",
+    "traduccion": "Localizador uniforme de recursos"
+  },
+  {
+    "siglas": "UX",
+    "definicion": "User Experience",
+    "traduccion": "Experiencia de usuario"
+  },
+  {
+    "siglas": "VPN",
+    "definicion": "Virtual Private Network",
+    "traduccion": "Red privada virtual"
+  },
+  {
+    "siglas": "W3C",
+    "definicion": "World Wide Web Consortium",
+    "traduccion": "Consorcio de la World Wide Web"
+  },
+  {
+    "siglas": "WAN",
+    "definicion": "Wide Area Network",
+    "traduccion": "Red de área amplia"
+  },
+  {
+    "siglas": "XML",
+    "definicion": "Extensible Markup Language",
+    "traduccion": "Lenguaje de marcado extensible"
+  },
+  {
+    "siglas": "XSS",
+    "definicion": "Cross-Site Scripting",
+    "traduccion": "Scripting entre sitios cruzados"
+  },
+  {
+    "siglas": "YAML",
+    "definicion": "YAML Ain't Markup Language",
+    "traduccion": "YAML no es un lenguaje de marcado"
+  },
+  {
+    "siglas": "API Gateway",
+    "definicion": "Application Programming Interface Gateway",
+    "traduccion": "Puerta de enlace de Interfaz de Programación de Aplicaciones"
+  },
+  {
+    "siglas": "API GraphQL",
+    "definicion": "Application Programming Interface for GraphQL",
+    "traduccion": "Interfaz de Programación de Aplicaciones para GraphQL"
+  },
+  {
+    "siglas": "AR",
+    "definicion": "Augmented Reality",
+    "traduccion": "Realidad Aumentada"
+  },
+  {
+    "siglas": "BI",
+    "definicion": "Business Intelligence",
+    "traduccion": "Inteligencia de Negocios"
+  },
+  {
+    "siglas": "CDN",
+    "definicion": "Content Delivery Network",
+    "traduccion": "Red de entrega de contenido"
+  },
+  {
+    "siglas": "CI/CD",
+    "definicion": "Continuous Integration/Continuous Deployment",
+    "traduccion": "Integración Continua/Despliegue Continuo"
+  },
+  {
+    "siglas": "CMS",
+    "definicion": "Content Management System",
+    "traduccion": "Sistema de Gestión de Contenidos"
+  },
+  {
+    "siglas": "CORS",
+    "definicion": "Cross-Origin Resource Sharing",
+    "traduccion": "Compartir Recursos entre Orígenes Cruzados"
+  },
+  {
+    "siglas": "CPU",
+    "definicion": "Central Processing Unit",
+    "traduccion": "Unidad central de procesamiento"
+  },
+  {
+    "siglas": "CRUD",
+    "definicion": "Create, Read, Update, Delete",
+    "traduccion": "Crear, Leer, Actualizar, Eliminar"
+  },
+  {
+    "siglas": "CSS",
+    "definicion": "Cascading Style Sheets",
+    "traduccion": "Hojas de estilo en cascada"
+  },
+  {
+    "siglas": "DaaS",
+    "definicion": "Data as a Service",
+    "traduccion": "Datos como Servicio"
+  },
+  {
+    "siglas": "DDoS",
+    "definicion": "Distributed Denial-of-Service",
+    "traduccion": "Ataque de denegación de servicio distribuido"
+  },
+  {
+    "siglas": "DNS",
+    "definicion": "Domain Name System",
+    "traduccion": "Sistema de nombres de dominio"
+  },
+  {
+    "siglas": "Docker",
+    "definicion": "Docker",
+    "traduccion": "Docker"
+  },
+  {
+    "siglas": "DL",
+    "definicion": "Deep Learning",
+    "traduccion": "Aprendizaje Profundo"
+  },
+  {
+    "siglas": "DRM",
+    "definicion": "Digital Rights Management",
+    "traduccion": "Gestión de derechos digitales"
+  },
+  {
+    "siglas": "ECMAScript",
+    "definicion": "ECMAScript",
+    "traduccion": "ECMAScript"
+  },
+  {
+    "siglas": "ERP",
+    "definicion": "Enterprise Resource Planning",
+    "traduccion": "Planificación de recursos empresariales"
+  },
+  {
+    "siglas": "ETL",
+    "definicion": "Extract, Transform, Load",
+    "traduccion": "Extraer, Transformar, Cargar"
+  },
+  {
+    "siglas": "FaaS",
+    "definicion": "Function as a Service",
+    "traduccion": "Función como Servicio"
+  },
+  {
+    "siglas": "GAN",
+    "definicion": "Generative Adversarial Network",
+    "traduccion": "Red generativa adversaria"
+  },
+  {
+    "siglas": "GCP",
+    "definicion": "Google Cloud Platform",
+    "traduccion": "Plataforma Cloud de Google"
+  },
+  {
+    "siglas": "GUI",
+    "definicion": "Graphical User Interface",
+    "traduccion": "Interfaz gráfica de usuario"
+  },
+  {
+    "siglas": "HTML5",
+    "definicion": "HyperText Markup Language 5",
+    "traduccion": "Lenguaje de marcado de hipertexto 5"
+  },
+  {
+    "siglas": "HTTPS",
+    "definicion": "HyperText Transfer Protocol Secure",
+    "traduccion": "Protocolo de transferencia de hipertexto seguro"
+  },
+  {
+    "siglas": "IDE",
+    "definicion": "Integrated Development Environment",
+    "traduccion": "Entorno de desarrollo integrado"
+  },
+  {
+    "siglas": "IoT",
+    "definicion": "Internet of Things",
+    "traduccion": "Internet de las cosas"
+  },
+  {
+    "siglas": "IaaS",
+    "definicion": "Infrastructure as a Service",
+    "traduccion": "Infraestructura como Servicio"
+  },
+  {
+    "siglas": "IP",
+    "definicion": "Internet Protocol",
+    "traduccion": "Protocolo de Internet"
+  },
+  {
+    "siglas": "JSON",
+    "definicion": "JavaScript Object Notation",
+    "traduccion": "Notación de objetos de JavaScript"
+  },
+  {
+    "siglas": "LAMP",
+    "definicion": "Linux, Apache, MySQL, PHP",
+    "traduccion": "Linux, Apache, MySQL, PHP"
+  },
+  {
+    "siglas": "Linux",
+    "definicion": "Linux",
+    "traduccion": "Linux"
+  },
+  {
+    "siglas": "ML",
+    "definicion": "Machine Learning",
+    "traduccion": "Aprendizaje automático"
+  },
+  {
+    "siglas": "MLaaS",
+    "definicion": "Machine Learning as a Service",
+    "traduccion": "Aprendizaje automático como Servicio"
+  },
+  {
+    "siglas": "MVP",
+    "definicion": "Minimum Viable Product",
+    "traduccion": "Producto mínimo viable"
+  },
+  {
+    "siglas": "MVVM",
+    "definicion": "Model-View-ViewModel",
+    "traduccion": "Modelo-Vista-Modelo"
+  },
+  {
+    "siglas": "Node.js",
+    "definicion": "Node.js",
+    "traduccion": "Node.js"
+  },
+  {
+    "siglas": "OCR",
+    "definicion": "Optical Character Recognition",
+    "traduccion": "Reconocimiento óptico de caracteres"
+  },
+  {
+    "siglas": "OOP",
+    "definicion": "Object-Oriented Programming",
+    "traduccion": "Programación orientada a objetos"
+  },
+  {
+    "siglas": "ORM",
+    "definicion": "Object-Relational Mapping",
+    "traduccion": "Mapeo Objeto-Relacional"
+  },
+  {
+    "siglas": "OS",
+    "definicion": "Operating System",
+    "traduccion": "Sistema operativo"
+  },
+  {
+    "siglas": "PDF",
+    "definicion": "Portable Document Format",
+    "traduccion": "Formato de documento portátil"
+  },
+  {
+    "siglas": "PHP",
+    "definicion": "PHP: Hypertext Preprocessor",
+    "traduccion": "PHP: Preprocesador de Hipertexto"
+  },
+  {
+    "siglas": "RAM",
+    "definicion": "Random Access Memory",
+    "traduccion": "Memoria de acceso aleatorio"
+  },
+  {
+    "siglas": "RPA",
+    "definicion": "Robotic Process Automation",
+    "traduccion": "Automatización de Procesos Robóticos"
+  },
+  {
+    "siglas": "SaaS",
+    "definicion": "Software as a Service",
+    "traduccion": "Software como Servicio"
+  },
+  {
+    "siglas": "SEO",
+    "definicion": "Search Engine Optimization",
+    "traduccion": "Optimización para motores de búsqueda"
+  },
+  {
+    "siglas": "SQL",
+    "definicion": "Structured Query Language",
+    "traduccion": "Lenguaje de consulta estructurado"
+  },
+  {
+    "siglas": "SSH",
+    "definicion": "Secure Shell",
+    "traduccion": "Concha segura"
+  },
+  {
+    "siglas": "TCP/IP",
+    "definicion": "Transmission Control Protocol/Internet Protocol",
+    "traduccion": "Protocolo de control de transmisión/Protocolo de Internet"
+  },
+  {
+    "siglas": "TLS",
+    "definicion": "Transport Layer Security",
+    "traduccion": "Seguridad de la capa de transporte"
+  },
+  {
+    "siglas": "UI",
+    "definicion": "User Interface",
+    "traduccion": "Interfaz de usuario"
+  },
+  {
+    "siglas": "URL",
+    "definicion": "Uniform Resource Locator",
+    "traduccion": "Localizador uniforme de recursos"
+  },
+  {
+    "siglas": "UX",
+    "definicion": "User Experience",
+    "traduccion": "Experiencia de usuario"
+  },
+  {
+    "siglas": ".",
+    "definicion": "The period sign has great importance on the Internet as it is not only used in the identification of all kinds of addresses (for example, in email addresses like novatica@ati.es) but also to identify a whole sector of companies of the so-called 'New Economy', the famous dotcoms.",
+    "traduccion": "El signo punto tiene una gran importancia en Internet pues no sólo se utiliza en la identificación de todo tipo de direcciones (por ejemplo, en direcciones de correo electrónico como novatica@ati.es) sino que también se emplea para identificar a todo un sector de empresas de la denominada 'Nueva Economía', las famosas dotcom, puntocom en español. Ver también: \"domain\", \"dotcom\", \"New Economy\". [RFCALVO]"
+  },
+  {
+    "siglas": "@",
+    "definicion": "This sign is one of the components of email addresses and separates the user's name from the domain names of the mail server (for example: rfcalvo@ati.es); the origin of its use on the Internet lies in its frequent use in English as an abbreviation for the preposition at (\"in\", but in a very specific and concrete spatial sense). It is also increasingly used in politically correct written language to avoid having to repeat nouns and adjectives according to gender: thus Estimad@s amig@s replaces Estimados amigos y estimadas amigas or Estimadas/os amigas/os.",
+    "traduccion": "Este signo es uno de los componentes de las direcciones de correo electrónico y separa el nombre del usuario de los nombres de dominio del servidor de correo (ejemplo: rfcalvo@ati.es); el origen de su uso en Internet está en su frecuente empleo en inglés como abreviatura de la preposición at (\"en\", pero en un sentido espacial muy concreto y específico). Se usa también cada vez más frecuentemente en el lenguaje escrito políticamente correcto para evitar tener que repetir sustantivos y adjetivos según el género: así Estimad@s amig@s sustituye a Estimados amigos y estimadas amigas o a Estimadas/os amigas/os. Ver también: \"domain\", \"e-mail address\". [RFCALVO]"
+  },
+  {
+    "siglas": "©",
+    "definicion": "See \"copyright\".",
+    "traduccion": "Ver \"copyright\"."
+  },
+  {
+    "siglas": ":-)",
+    "definicion": "This strange symbol is one of the various ways in which a person can show their mood in a 'cold' medium like a computer. It represents a smiling face (smiley) and is a form of 'metacommunication' of the hundreds that exist, ranging from the obvious to the cryptic. This symbol specifically expresses happiness, but also joke or sarcasm. If you don't see it, turn your head ninety degrees to the left.",
+    "traduccion": "Este extraño símbolo es una de las diversas formas en que una persona puede mostrar su estado de ánimo en un medio 'frío' como es el ordenador. Representa un rostro sonriente (smiley) y es una forma de 'metacomunicación' de las centenares que existen y que van de lo obvio a lo críptico. Este símbolo expresa en concreto felicidad, pero también broma o sarcasmo. Si no lo ve, gire su cabeza noventa grados a la izquierda. Ver también: \"emoticon\", \"smiley\". [ZEN]."
+  },
+  {
+    "siglas": "2",
+    "definicion": "The number 2 has acquired a very specific meaning on the Internet since the birth of electronic commerce in its various modalities. Since the number 2, two in English, has a very similar pronunciation to the preposition to in this language, it replaces it in numerous acronyms. Thus, B2B is the acronym for Business-to-Business.",
+    "traduccion": "El número 2 ha adquirido un significado muy específico en Internet desde el nacimiento del comercio electrónico en sus diversas modalidades. Dado que el número 2, two en inglés, tiene en esta lengua una pronunciación muy similar a la preposición to, sustituye a ésta en numerosos acrónimos. Así, B2B es el acrónimo de Business-to-Business. Ver también: \"B2B\", \"B2C\", \"C2C\", \"e-commerce\", \"G2C\", \"P2P\". [RFCALVO]"
+  },
+  {
+    "siglas": "401 Unauthorized",
+    "definicion": "401 is a common status code that indicates to a Web user that they are not authorized to access a certain page. 401 and other status codes are part of the HTTP protocol of WWW, written in 1992 by the inventor of the Web, Tim Berners-Lee, who took many of these codes from those corresponding to the FTP (File Transfer Protocol).",
+    "traduccion": "401 es un código de estado frecuente que indica a un usuario del Web que no está autorizado a acceder a una determinada página. 401 y otros códigos de estado forman parte del protocolo HTTP de WWW, escrito en 1992 por el inventor del Web, Tim Berners-Lee, que tomó muchos de dichos códigos de los correspondientes al FTP (File Transfer Protocol). Ver también: \"404 Not found\", \"FTP\", \"HTML\", \"HTTP\", \"page\", \"WWW\". [WHATIS]."
+  },
+  {
+    "siglas": "404 Not found",
+    "definicion": "404 is a common status code that indicates to a Web user that a certain page has not been found (Not found). 404 and other status codes are part of the HTTP protocol of WWW, written in 1992 by the inventor of the Web, Tim Berners-Lee, who took many of these codes from those corresponding to the FTP (File Transfer Protocol).",
+    "traduccion": "404 es un código de estado frecuente que indica a un usuario del Web que no se ha encontrado (Not found) una determinada página. 404 y otros códigos de estado forman parte del protocolo HTTP de WWW, escrito en 1992 por el inventor del Web, Tim Berners-Lee, que tomó muchos de dichos códigos de los correspondientes al FTP (File Transfer Protocol). Ver también: \"401 Unauthorized\", \"FTP\", \"HTML\", \"HTTP\", \"page\", \"WWW\". [WHATIS]."
+  },
+  {
+    "siglas": "Abilene",
+    "definicion": "Name of one of the main network infrastructures of the Internet2 project.",
+    "traduccion": "Nombre de una de las principales infraestructuras de red del proyecto Internet2."
+  },
+  {
+    "siglas": "Acceptable Use Policy -- AUP",
+    "definicion": "Rules that establish the use that can be made of an information server or network in a given scope. For example, some networks can only be used for non-commercial purposes, some servers do not allow access to certain news groups, and some companies do not allow their employees to access the Web.",
+    "traduccion": "Normas que establecen el uso que se puede hacer de un servidor de información o de una red en un ámbito dado. Por ejemplo, algunas redes sólo pueden utilizarse para propósitos no comerciales, algunos servidores no permiten el acceso a determinados grupos de noticias y algunas empresas no permiten a sus empleados que accedan al Web."
+  },
+  {
+    "siglas": "ACK",
+    "definicion": "See \"acknowledgement\".",
+    "traduccion": "Ver \"acknowledgement\"."
+  },
+  {
+    "siglas": "acknowledgement",
+    "definicion": "A type of message that is sent to indicate that a block of data has reached its destination without errors. An acknowledgment can also be negative (no acknowledgment -- NOACK), indicating that a block of data has not reached its destination.",
+    "traduccion": "Un tipo de mensaje que se envía para indicar que un bloque de datos ha llegado a su destino sin errores. Un acuse de recibo puede también ser negativo (no acknowledgement -- NOACK), es decir, indicar que un bloque de datos no ha llegado a su destino."
+  },
+  {
+    "siglas": "ACM",
+    "definicion": "See \"Association for Computing Machinery\".",
+    "traduccion": "Ver \"Association for Computing Machinery\"."
+  },
+  {
+    "siglas": "Active Server Page -- ASP",
+    "definicion": "An ASP page is a special type of HTML page that contains small programs (also called scripts) that are executed on Microsoft Internet Information Server servers before being sent to the user for display as an HTML page. Typically, these programs query databases, and the results of those queries determine the information sent to each specific user. Files of this type have the .asp suffix. Not to be confused with Application Service Provider.",
+    "traduccion": "Una página ASP es un tipo especial de página HTML que contiene unos pequeños programas (también llamados scripts) que son ejecutados en servidores Microsoft Internet Information Server antes de ser enviados al usuario para su visualización en forma de página HTML. Habitualmente esos programas realizan consultas a bases de datos y los resultados de esas consultas determinan la información que se envía a cada usuario específico. Los ficheros de este tipo llevan el sufijo .asp. No confundir con Application Service Provider."
+  },
+  {
+    "siglas": "ActiveX",
+    "definicion": "Language developed by Microsoft for the development of applications exportable to the network and capable of operating on any platform through, usually, WWW browsers. It allows giving dynamism to web pages.",
+    "traduccion": "Lenguaje desarrollado por Microsoft para la elaboración de aplicaciones exportables a la red y capaces de operar sobre cualquier plataforma a través, normalmente, de navegadores WWW. Permite dar dinamismo a las páginas web."
+  },
+  {
+    "siglas": "address",
+    "definicion": "In Internet, it refers to the series of characters, numeric or alphanumeric, that uniquely identify a particular resource and allow access to it. In the network, there are several types of addresses commonly used: email address, IP (internet address), and hardware address or MAC address.",
+    "traduccion": "En Internet dícese de la serie de caracteres, numéricos o alfanuméricos, que identifican un determinado recurso de forma única y permiten acceder a él. En la red  existen varios tipos de dirección de uso común: dirección de correo electrónico (e-mail address), IP (dirección internet) y dirección hardware o dirección MAC (hardware address o MAC address)."
+  },
+  {
+    "siglas": "ADSL",
+    "definicion": "See \"Asymmetrical Digital Subscriber Line\".",
+    "traduccion": "Ver \"Asymmetrical Digital Subscriber Line\"."
+  },
+  {
+    "siglas": "Advanced Research Projects Agency -- ARPA",
+    "definicion": "Current name of the American military organization formerly called DARPA, dedicated to developing research projects for military purposes that sometimes also have civilian use.",
+    "traduccion": "Nombre actual del organismo militar norteamericano anteriormente llamado DARPA, dedicado a desarrollar proyectos de investigación con propósitos militares que a veces tienen también utilización civil."
+  },
+  {
+    "siglas": "Advanced Research Projects Agency Network -- ARPANET",
+    "definicion": "Pioneering long-distance network funded by ARPA (formerly DARPA). It was the initial basis of network research and constituted the central axis of these during the development of the Internet. ARPANET consisted of individually packet-switched computers interconnected by telephone lines.",
+    "traduccion": "Red pionera de larga distancia financiada por ARPA (antigua DARPA). Fue la base inicial de la investigación sobre redes y constituyó el eje central de éstas durante el desarrollo de Internet. ARPANET estaba constituida por ordenadores de conmutación individual de paquetes, interconectados mediante líneas telefónicas."
+  },
+  {
+    "siglas": "Agencia de Protección de Datos --  APD",
+    "definicion": "Official body created in Spain in 1993 as a result of the approval of the LORTAD (Organic Law on the Regulation of Automated Processing of Personal Data). Its purpose is to protect citizens against invasions of their privacy carried out by computer means, as established by article 18.4 of the Spanish Constitution.",
+    "traduccion": "Organismo oficial creado en España en 1993 como consecuencia de la aprobación de la LORTAD (Ley Orgánica de Regulación del Tratamiento Automatizado de los Datos de Carácter Personal). Su finalidad es proteger a los ciudadanos contra las invasiones de su intimidad realizadas mediante medios informáticos, según establece el artículo 18.4 de la Constitución Española."
+  },
+{
+    "siglas": "agent",
+    "definicion": "In Internet, an agent (also called an intelligent agent) is a program that collects information or performs some other service in a planned manner and without the presence of the user. Usually, an agent program, using parameters supplied by the user, searches all over the Internet, or part of it, for information of interest to the user and provides it periodically, daily or not. See also: \"knowbot\", \"push\", \"shopbot\".",
+    "traduccion": "En Internet, un agente (también llamado agente inteligente) es un programa que recoge información o realiza algún otro servicio de forma planificada y sin la presencia del usuario. Habitualmente, un programa agente, utilizando parámetros suministrados por el usuario, busca en toda Internet, o en parte de ella, información de interés para el mismo y se la facilita de forma periódica, diaria o no. Ver también: \"knowbot\", \"push\", \"shopbot\"."
+},
+
+  {
+    "siglas": "AI",
+    "definicion": "Artificial Intelligence",
+    "traduccion": "Inteligencia Artificial"
+  },
+  {
+    "siglas": "ATI",
+    "definicion": "Asociación de Técnicos de Informática",
+    "traduccion": "Association of Computer Technicians"
+  },
+  {
+    "siglas": "AUI",
+    "definicion": "Asociación de Usuarios de Internet",
+    "traduccion": "Association of Internet Users"
+  },
+  {
+    "siglas": "ACM",
+    "definicion": "Association for Computing Machinery",
+    "traduccion": "Asociación de Maquinaria de Computación"
+  },
+  {
+    "siglas": "ADSL",
+    "definicion": "Asymmetric Digital Subscriber Line",
+    "traduccion": "Línea de Subscripción Asimétrica Digital"
+  },
+  {
+    "siglas": "ATM",
+    "definicion": "Asynchronous Transfer Mode",
+    "traduccion": "Modo de Transferencia Asíncrona"
+  },
+  {
+    "siglas": "attachment",
+    "definicion": "attachment (anexo)",
+    "traduccion": "anexo"
+  },
+  {
+    "siglas": "AUP",
+    "definicion": "AUP (Acceptable Use Policy)",
+    "traduccion": "Política de Uso Aceptable"
+  },
+  {
+    "siglas": "authentication",
+    "definicion": "authentication (autentificación)",
+    "traduccion": "autentificación"
+  },
+  {
+    "siglas": "avatar",
+    "definicion": "avatar (avatar, personaje digital)",
+    "traduccion": "avatar, personaje digital"
+  },
+ 
+  {
+    "siglas": "B2B",
+    "definicion": "Business-to-Business",
+    "traduccion": "Empresa a Empresa"
+  },
+  {
+    "siglas": "B2C",
+    "definicion": "Business-to-Consumer",
+    "traduccion": "Empresa a Consumidor"
+  },
+  {
+    "siglas": "backbone",
+    "definicion": "backbone (eje central, eje troncal, línea principal)",
+    "traduccion": "eje central, eje troncal, línea principal"
+  },
+  
+    { "siglas": "backup", "definicion": "Copy of files or data so that they are available in case a failure causes the loss of the originals. This simple action prevents numerous, and sometimes irreparable, problems if done regularly and periodically.", "traduccion": "copia de respaldo, copia de seguridad" },
+    { "siglas": "bandwidth", "definicion": "Technically, it is the difference in hertz (Hz) between the highest and lowest frequency of a transmission channel. However, this term is much more often used to define the amount of data that can be sent in a given period of time through a given communication circuit, for example, 33.6 Kbps (thousands of bits per second).", "traduccion": "ancho de banda, anchura de banda" },
+    { "siglas": "banner", "definicion": "Image, graphic, or text of an advertising nature, usually small in size, that appears on a web page and typically links to the advertiser's website.", "traduccion": "anuncio, faldón, pancarta, viñeta" },
+    { "siglas": "baud", "definicion": "When transmitting data, a baud is the number of times the 'state' of the transmission medium changes in one second. Since each state change can affect more than one bit of data, the rate of data bits transferred (for example, measured in bits per second) can be higher than the corresponding baud rate.", "traduccion": "baudio" },
+    { "siglas": "Bcc:", "definicion": "It is one of the lines that compose the header of an email message, and its purpose is to include one or more recipients of that message whose identity will not appear in the message received by the main recipient(s). The network label dictates suppressing, or at least limiting to the maximum, the use of this procedure because in a way, the recipient is being hidden that the message will reach other people. Conversely, its use is recommended when sending a message to a high number of recipients to avoid the message header from being too large. Bcc is an acronym for the English phrase blind carbon copy.", "traduccion": "copia ciega, copia oculta" },
+    { "siglas": "Because It's Time NETwork -- BITNET", "definicion": "Former international network of computers from educational and research centers that offered interactive email and file transfer services using a storage and sending protocol based on IBM's Network Job Entry protocols. It connected to the Internet through an email gateway.", "traduccion": "Red Porque Ya Es Hora" },
+    { "siglas": "beeper", "definicion": "Small communication device, slightly smaller than a pack of cigarettes, that allows the reception of written messages, emitting a beep when the message is received. The message can be sent via the Internet.", "traduccion": "busca, zumbador" },
+    { "siglas": "bit", "definicion": "The smallest unit of digital information that can be processed by a computer. It comes from the contraction of the expression binary digit.", "traduccion": "bit, bitio" },
+    { "siglas": "bits per second -- bps", "definicion": "Unit of measurement of the transmission capacity of a telecommunication line.", "traduccion": "bits por segundo" },
+    { "siglas": "BITNET", "definicion": "See Because It's Time NETwork", "traduccion": "Red Porque Ya Es Hora" },
+    { "siglas": "blind surfing", "definicion": "Action of navigating the web without knowing where you want to go.", "traduccion": "navegación a ciegas" },
+    { "siglas": "Bluetooth", "definicion": "Wireless communication system that allows the interconnection of different electronic devices. Bluetooth, which literally means 'blue tooth' in English, was the nickname of a Viking chief from the 9th century AD.", "traduccion": "Bluetooth" },
+    { "siglas": "body", "definicion": "Area of an email message that contains the text intended to be sent to the recipient(s).", "traduccion": "cuerpo, cuerpo de mensaje" },
+    { "siglas": "bookmark", "definicion": "Signal or reminder that internet users leave in their browsing application to mark an interesting site found on the Internet so that they can return to it later.", "traduccion": "marca, marcapáginas, marca de página" },
+    { "siglas": "bot", "definicion": "Abreviatura de la palabra robot.", "traduccion": "bot" },
+    { "siglas": "bounce", "definicion": "Devolución de un mensaje de correo electrónico debido a error en la entrega al destinatario.", "traduccion": "rebote" },
+    { "siglas": "bps", "definicion": "Ver \"bits per second\".", "traduccion": "bps" },
+    { "siglas": "broadcast", "definicion": "Término utilizado originariamente en el mundo de la radio y de la televisión para indicar que sus emisiones las puede recibir cualquiera que sintonice una emisora. Hoy en Internet se emite también radio y televisión en modo broadcast, y la misma WWW es un medio de este misma naturaleza.", "traduccion": "difusión amplia" },
+    { "siglas": "browser", "definicion": "Aplicación para visualizar todo tipo de información y navegar por el espacio Internet. En su forma más básica son aplicaciones hipertexto que facilitan la navegación por los servidores de información Internet; cuentan con funcionalidades plenamente multimedia y permiten indistintamente la navegación por servidores WWW, FTP, Gopher, el acceso a grupos de noticias, la gestión del correo electrónico, etc.", "traduccion": "hojeador, navegador, visor, visualizador" },
+    { "siglas": "BSA", "definicion": "Ver \"Business Software Alliance\".", "traduccion": "BSA" },
+    { "siglas": "bug", "definicion": "Término aplicado a los errores descubiertos al ejecutar un programa informático. Fue usado por primera vez en el año 1945 por Grace Murray Hooper, una de las pioneras de la programación moderna, al descubrir cómo un insecto (bug) había dañado un circuito del ordenador Mark.", "traduccion": "error, gazapo" },
+    { "siglas": "BBS", "definicion": "Ordenador y programas que habitualmente suministran servicios de mensajería electrónica, archivos de ficheros y cualquier otro servicio y actividad que pueda interesar al operador del BBS. Hoy casi han desaparecido, sustituidos por la WWW.", "traduccion": "Tablón de Anuncios Electrónico" },
+    { "siglas": "BSA", "definicion": "Organismo de alcance internacional creado en 1988 por diversas empresas del sector del software para defender sus derechos de propiedad intelectual sobre los programas que desarrollan.", "traduccion": "Alianza del Sector del Software" },
+    { "siglas": "B2B", "definicion": "Modalidad de comercio electrónico en el que las operaciones comerciales se realizan entre empresas (por ejemplo, una empresa y sus proveedores) y no con usuarios finales.", "traduccion": "Empresa a Empresa, entre empresas, interempresas" },
+    { "siglas": "B2C", "definicion": "Modalidad de comercio electrónico en el que las operaciones comerciales se realizan entre una empresa y sus usuarios finales.", "traduccion": "Empresa a Cliente, Empresa a Consumidor" },
+    { "siglas": "byte", "definicion": "Conjunto significativo de ocho bits que representan un carácter, por ejemplo la letra \"a\", en un sistema informático.", "traduccion": "byte, octeto" },
+    { "siglas": "C2C", "definicion": "Ver \"Consumer-to-Consumer\".", "traduccion": "Consumer-to-Consumer" },
+    { "siglas": "cache", "definicion": "En Internet es la copia mantenida por un navegador de las páginas web visitadas últimamente, de manera que, si el usuario vuelve a solicitarlas, son leídas desde el disco duro sin necesidad de tener que conectarse de nuevo a la red, consiguiéndose así una mejora muy apreciable del tiempo de respuesta.", "traduccion": "caché, copia de visitas" },
+    { "siglas": "CWIS", "definicion": "Un CWIS ofrece información y servicios públicos en un centro universitario mediante quioscos informatizados y permite operaciones interactivas mediante quioscos, sistemas informáticos interactivos y redes universitarias. Habitualmente estos servicios comprenden directorios, calendarios, BBS, bases de datos.", "traduccion": "Sistema de Información Universitario" },
+    
+    { "siglas": "ISOC-AND", "definicion": "Uno de Capítulos de la Internet Society en España.", "traduccion": "Capítulo Andaluz de la Internet Society" },
+    { "siglas": "ISOC-ARA", "definicion": "Uno de Capítulos de la Internet Society en España.", "traduccion": "Capítulo Aragonés de la Internet Society" },
+    { "siglas": "ISOC-CAT", "definicion": "El primero de los Capítulos de la Internet Society constituido oficialmente en España, en 1995.", "traduccion": "Capítulo Catalán de la Internet Society" },
+    { "siglas": "ISOC-ES", "definicion": "Organización de ámbito estatal español creada en 1999.", "traduccion": "Capítulo Español de la Internet Society" },
+    { "siglas": "ISOC-GAL", "definicion": "Uno de Capítulos de la Internet Society en España.", "traduccion": "Capítulo Gallego de la Internet Society" },
+    { "siglas": "carrier", "definicion": "En su significado de portadora carrier es una señal o pulso transmitido a través de una línea de telecomunicación. Un carrier es también una empresa que opera en el sector de las telecomunicaciones ofreciendo servicios de telefonía.", "traduccion": "portadora, empresa telefónica" },
+    { "siglas": "CSS", "definicion": "Es un conjunto de instrucciones HTML que definen la apariencia de uno o más elementos de un conjunto de páginas web con el objetivo de uniformizar su diseño.", "traduccion": "Hoja de Estilo en Cascada" },
+    { "siglas": "CATNIX", "definicion": "Asociación que facilita el tráfico local de Cataluña, permitiendo que los proveedores de Internet de dicho territorio intercambien de manera directa el tráfico dentro de la misma.", "traduccion": "Punto Neutral de Intercambio Internet de Cataluña" },
+    { "siglas": "Cc", "definicion": "Es una de las líneas que componen la cabecera de un mensaje de correo electrónico y su finalidad es copiar ese mensaje a uno o más destinatarios de dicho mensaje, cuyas identidades, a diferencia de lo que sucede con los incluidos en la línea Bcc:, aparecerán en el mensaje recibido por el destinatario o destinatarios principales.", "traduccion": "copia" },
+    { "siglas": "cell phone", "definicion": "Teléfono portátil sin hilos conectado a una red celular y que permite al usuario su empleo en cualquier lugar cubierto por la red.", "traduccion": "teléfono celular" },
+    { "siglas": "cellular phone", "definicion": "Teléfono portátil sin hilos conectado a una red celular y que permite al usuario su empleo en cualquier lugar cubierto por la red.", "traduccion": "celular, móvil, telefonino, teléfono celular, teléfono móvil" },
+    { "siglas": "censorship", "definicion": "Restricciones a la libre expresión de los ciudadanos llevadas a cabo tanto sobre todo por Administraciones Publicas y por empresas privadas, a menudo con carácter previo (censura previa), para evitar, por diversos tipos de motivos, que en Internet se publique información considerada ofensiva, inconveniente o simplemente molesta.", "traduccion": "censura" },
+    { "siglas": "certificate", "definicion": "Acreditación emitida por una entidad o un particular debidamente autorizados garantizando que determinado dato (por ejemplo, una firma electrónica o una clave pública) pertenece realmente a quien se  supone.", "traduccion": "certificado" }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+

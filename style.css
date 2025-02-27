@@ -1,0 +1,250 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  
+  background-color: #2e2e2e;
+  /* Color de fondo contrastado tipo Adobe */
+  color: #ffffff;
+  /* Color de texto blanco para contraste */
+}
+
+#principal {
+  
+  width: 100vw;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.app {
+  background: black;
+  width: 26px;
+  height: 32px;
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  font-size: 1.3em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: .5px solid white;
+  border-radius: 3px;
+  z-index: 1;
+}
+
+h2 {
+  text-align: center;
+  color: gold;
+  /* Color de texto para el título */
+  padding: 11px;
+  padding-left: 60px;
+}
+
+
+#glosario {
+  overflow: auto;
+  height: 80vh;
+  font-size: .8em;
+  padding: 2px 5px 2px 5px;
+  width: 95%;
+}
+
+.term {
+  margin-bottom: 10px;
+  background-color: #404040;
+  /* Color de fondo para cada término en el glosario */
+  padding: 7px;
+  border-radius: 5px;
+  
+  color: #ff9900;
+  /* Color de texto para las siglas */
+}
+
+
+strong {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: transparent;
+  width: 100%;
+}
+
+.img_termino {
+  width: 30px;
+  height: 30px;
+  border: 1px solid white;
+  color: white;
+  box-sizing: border-box;
+  font-size: .8rem;
+}
+
+#significado{
+  color: #FFE900;
+  background: transparent;
+  margin-left: 5px;
+}
+
+.traduction {
+  font-style: italic;
+  color: #cccccc;
+  background: transparent;
+  
+}
+
+#definicion {
+  color: greenyellow;
+  font-weight: normal;
+  font-style: italic;
+  
+}
+/*
+#contenedor_inputs {
+  background: lightgrey;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 95vw;
+  border: 1px solid white;
+  position: absolute;
+  bottom: 0;
+  margin: 0 2.5vw 2.5vw 2.5vw;
+  border-radius: 5px;
+  opacity: 1%;
+  transition: opacity 1s ease;
+  backdrop-filter: blur(15px);
+}*/
+#contenedor_inputs {
+  background: rgba(255, 255, 255, 0.02);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 95vw;
+  border: 1px solid white;
+  position: absolute;
+  bottom: 0;
+  border-radius: 5px;
+  backdrop-filter: blur(1px); /* Aplica el difuminado al fondo */
+  transition: opacity 1s ease;
+}
+
+
+#barra_task {
+  background: transparent;
+  width: 100%;
+  height: 33px;
+  border-radius: 5px 5px 0 0;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: right;
+  border: 1px solid yellow;
+  box-sizing: border-box;
+}
+
+#minimizar,
+#cerrar {
+  width: 25px;
+  height: 25px;
+  margin: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: transparent;
+  border: 1px solid white;
+  border-radius: 2px;
+}
+#minimizar::after{
+  content: " ";
+  width: 10px;
+  height: 12px;
+  border: 1px solid white;
+  position: relative;
+  right: 3px;
+  bottom: 2px;
+}
+#minimizar::before {
+  content: " ";
+  width: 10px;
+  height: 12px;
+  border: 1px solid white;
+  position: relative;
+  left: 2px;
+}
+.inputs{
+  background: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+input {
+  width: 100vw;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  padding: 7px;
+  font-size: 5.3em;
+}
+
+input[type="text"] {
+  color: #3E3C35;
+  width: 95%;
+  height: 40px;
+  font-size: 1em;
+  border-radius: 7px;
+  outline: none;
+  border: 1px solid black;
+}
+
+button[type="button"] {
+  background: rgba(255, 255, 255, 0.02);
+  width: 95%;
+  height: 35px;
+  right: 0;
+  bottom: 0;
+  margin-bottom: 5px;
+  border: solid 0.5px white;
+  border-radius: 5px;
+  color: #FFCA02;
+  backdrop-filter: blur(1px)
+}
+
+#lateral {
+  background: #363743;
+  width: 250px;
+  height: 100vh;
+  position: absolute;
+  left: -250px;
+  transition: 0.4s;
+  z-index: 1;
+}
+
+#lat_emcabezado {
+  background: grey;
+  height: 80px;
+  
+}
+
+#contenedor_botones {
+  background: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#botones_lateral {
+  width: 95%;
+  height: 30px;
+  margin: 2.5% 2.5% 2.25% 2.5%;
+}
+
+.explicacion {
+  color: #00D7FF;
+  background: transparent;
+}
